@@ -1,0 +1,999 @@
+Transaction_date,Product,Price,Payment_Type,Name,City,Account_Created,Last_Login,Latitude,Longitude,Description
+1/2/09 6:17,Product1,1200,Mastercard,carolina,Basildon,123,1/2/09 6:08,51.5,-1.1166667,Shopping Mall
+1/2/09 4:53,Product1,1200,Visa,Betina,Parkville                   ,124,1/2/09 7:49,39.195,-94.68194,Restaurant
+1/2/09 13:08,Product1,1200,Mastercard,Federica e Andrea,Astoria                     ,125,1/3/09 12:32,46.18806,-123.83,Cinema
+1/3/09 14:44,Product1,1200,Visa,Gouya,Echuca,126,1/3/09 14:22,-36.1333333,144.75,Sports
+1/4/09 12:56,Product2,3600,Visa,Gerd W ,Cahaba Heights              ,127,1/4/09 12:45,33.52056,-86.8025,car insurace
+1/4/09 13:19,Product1,1200,Visa,LAURENCE,Mickleton                   ,128,1/4/09 13:04,39.79,-75.23806,home insurance
+1/4/09 20:11,Product1,1200,Mastercard,Fleur,Peoria                      ,129,1/4/09 19:45,40.69361,-89.58889,life insurance
+1/2/09 20:09,Product1,1200,Mastercard,adam,Martin                      ,130,1/4/09 20:01,36.34333,-88.85028,rent
+1/4/09 13:17,Product1,1200,Mastercard,Renee Elisabeth,Tel Aviv,131,1/4/09 22:10,32.0666667,34.7666667,leasing
+1/4/09 14:11,Product1,1200,Visa,Aidan,Chatou,132,1/5/09 1:17,48.8833333,2.15,leasing
+1/5/09 2:42,Product1,1200,Diners,Stacy,New York                    ,133,1/5/09 4:59,40.71417,-74.00639,leasing
+1/5/09 5:39,Product1,1200,Amex,Heidi,Eindhoven,134,1/5/09 8:15,51.45,5.4666667,leasing
+1/2/09 9:16,Product1,1200,Mastercard,Sean ,Shavano Park                ,135,1/5/09 9:05,29.42389,-98.49333,leasing
+1/5/09 10:08,Product1,1200,Visa,Georgia,Eagle                       ,136,1/5/09 10:05,43.69556,-116.35306,leasing
+1/2/09 14:18,Product1,1200,Visa,Richard,Riverside                   ,137,1/5/09 11:01,40.03222,-74.95778,leasing
+1/4/09 1:05,Product1,1200,Diners,Leanne,Julianstown,138,1/5/09 13:36,53.6772222,-6.3191667,leasing
+1/5/09 11:37,Product1,1200,Visa,Janet,Ottawa,139,1/5/09 19:24,45.4166667,-75.7,leasing
+1/6/09 5:02,Product1,1200,Diners,barbara,Hyderabad,140,1/6/09 7:52,17.3833333,78.4666667,leasing
+1/6/09 7:45,Product2,3600,Visa,Sabine,London,141,1/6/09 9:17,51.52721,0.14559,leasing
+1/2/09 7:35,Product1,1200,Diners,Hani,Salt Lake City              ,142,1/6/09 10:52,40.76083,-111.89028,leasing
+1/6/09 12:56,Product1,1200,Visa,Jeremy,Manchester,143,1/6/09 13:31,53.5,-2.2166667,leasing
+1/1/09 11:05,Product1,1200,Diners,Janis,Ballynora,144,1/7/09 1:52,51.8630556,-8.58,leasing
+1/5/09 4:10,Product1,1200,Mastercard,Nicola,Roodepoort,145,1/7/09 5:13,-26.1666667,27.8666667,leasing
+1/6/09 7:18,Product1,1200,Visa,asuman,Chula Vista                 ,146,1/7/09 7:08,32.64,-117.08333,leasing
+1/2/09 1:11,Product1,1200,Mastercard,Lena,Kuopio,147,1/7/09 10:20,62.9,27.6833333,leasing
+1/1/09 2:24,Product1,1200,Visa,Lisa,Sugar Land                  ,148,1/7/09 10:52,29.61944,-95.63472,leasing
+1/7/09 8:08,Product1,1200,Diners,Bryan Kerrene,New York                    ,149,1/7/09 12:38,40.71417,-74.00639,leasing
+1/2/09 2:57,Product1,1200,Visa,chris,London,150,1/7/09 13:14,51.52721,0.14559,leasing
+1/1/09 20:21,Product1,1200,Visa,Maxine,Morton                      ,151,1/7/09 20:49,40.61278,-89.45917,leasing
+1/8/09 0:42,Product1,1200,Visa,Family,Los Gatos                   ,152,1/8/09 3:39,37.22667,-121.97361,leasing
+1/8/09 3:56,Product1,1200,Mastercard,Katherine,New York                    ,153,1/8/09 6:19,40.71417,-74.00639,leasing
+1/8/09 3:16,Product1,1200,Mastercard,Linda,Miami                       ,154,1/8/09 6:34,25.77389,-80.19389,leasing
+1/8/09 1:59,Product1,1200,Mastercard,SYLVIA,Vesenaz,155,1/8/09 7:20,46.2333333,6.2,leasing
+1/3/09 9:03,Product1,1200,Diners,Sheila,Brooklyn                    ,156,1/8/09 10:38,40.65,-73.95,leasing
+1/5/09 13:17,Product1,1200,Mastercard,Stephanie,Badhoevedorp,157,1/8/09 11:45,52.3333333,4.7833333,leasing
+1/6/09 7:46,Product1,1200,Amex,Kelly,Reston                      ,158,1/8/09 12:40,38.96861,-77.34139,leasing
+1/5/09 20:00,Product2,3600,Visa,James,Burpengary,159,1/8/09 17:58,-27.1666667,152.95,leasing
+1/8/09 16:24,Product1,1200,Visa,jennifer,Phoenix                     ,160,1/8/09 18:30,33.44833,-112.07333,Cinema
+1/9/09 6:39,Product1,1200,Mastercard,Anneli,Houston                     ,161,1/9/09 7:11,29.76306,-95.36306,Sports
+1/6/09 22:19,Product2,3600,Amex,Ritz,Pittsfield                  ,162,1/9/09 10:05,43.77222,-72.81333,car insurace
+1/6/09 23:00,Product2,3600,Amex,Sylvia,Pittsfield                  ,163,1/9/09 10:05,43.77222,-72.81333,home insurance
+1/7/09 7:44,Product1,1200,Mastercard,Marie,Ball Ground                 ,164,1/9/09 10:52,34.33806,-84.37667,Cinema
+1/3/09 13:24,Product1,1200,Visa,Mehmet Fatih,Helsingor,165,1/9/09 11:14,56.0333333,12.6166667,Sports
+1/7/09 15:12,Product2,3600,Visa,Anabela,Flossmoor                   ,166,1/9/09 16:03,41.54278,-87.68472,car insurace
+1/7/09 20:15,Product1,1200,Amex,Nicole,Houston                     ,167,1/9/09 20:02,29.76306,-95.36306,home insurance
+1/3/09 10:11,Product2,3600,Visa,Christiane ,Delray Beach                ,168,1/10/09 9:46,26.46111,-80.07306,Cinema
+1/9/09 15:58,Product1,1200,Mastercard,Sari,Newbury,169,1/10/09 13:16,51.4,-1.3166667,Sports
+1/3/09 13:11,Product1,1200,Mastercard,simone,Kobenhavn,170,1/10/09 13:24,55.6666667,12.5833333,car insurace
+1/10/09 12:57,Product1,1200,Amex,Vanessa,Sandy Springs               ,171,1/10/09 14:09,33.92417,-84.37861,home insurance
+1/10/09 14:43,Product1,1200,Diners,Anupam,Kinsaley,172,1/10/09 14:37,53.4247222,-6.1758333,Cinema
+1/10/09 12:05,Product1,1200,Visa,Karina,Fort Lauderdale             ,173,1/10/09 16:33,26.12194,-80.14361,Sports
+1/6/09 1:20,Product1,1200,Mastercard,Frank,Melbourne,174,1/10/09 18:27,-37.8166667,144.9666667,car insurace
+1/10/09 14:56,Product1,1200,Visa,Angela,Ankeny                      ,175,1/10/09 19:41,41.72972,-93.60556,home insurance
+1/7/09 10:01,Product1,1200,Visa,Darren,Pittsboro                   ,176,1/10/09 20:02,35.72,-79.1775,Cinema
+1/1/09 1:26,Product1,1200,Mastercard,Nikki,New Rochelle                ,177,1/10/09 21:31,40.91139,-73.78278,Sports
+1/11/09 2:04,Product1,1200,Visa,chris,Gold Coast,178,1/11/09 2:11,-28,153.4333333,car insurace
+1/11/09 14:17,Product1,1200,Visa,Stephanie,Brussels,179,1/11/09 13:39,50.8333333,4.3333333,home insurance
+1/10/09 21:38,Product1,1200,Visa,Anushka,Maple Ridge District Municipality,180,1/11/09 19:32,49.25,-122.5,Cinema
+1/7/09 6:18,Product1,1200,Mastercard,June ,Beachwood                   ,181,1/11/09 19:35,41.46444,-81.50889,Sports
+1/4/09 8:39,Product2,3600,Diners,Baybars,Prince Albert,182,1/11/09 21:05,53.2,-105.75,car insurace
+1/5/09 0:31,Product1,1200,Mastercard,Bonnie,Saltsjobaden,183,1/12/09 0:37,59.2833333,18.3,home insurance
+1/2/09 6:07,Product1,1200,Visa,Cindy ,Kemble,184,1/12/09 2:24,51.6766667,-2.0180556,Cinema
+1/12/09 3:25,Product1,1200,Mastercard,chrissy,W Lebanon                   ,185,1/12/09 3:22,43.64917,-72.31083,Sports
+1/4/09 13:56,Product1,1200,Mastercard,Tamar,Headley,186,1/12/09 5:38,51.1166667,-0.8166667,car insurace
+1/7/09 0:12,Product2,3600,Mastercard,Deirdre,Lausanne,187,1/12/09 6:55,46.5333333,6.6666667,home insurance
+1/12/09 5:18,Product1,1200,Mastercard,Bernadett,Southampton,188,1/12/09 8:08,50.9,-1.4,Cinema
+1/8/09 15:16,Product1,1200,Visa,Dottie,Woodsboro                   ,189,1/12/09 9:29,39.53306,-77.315,Sports
+1/11/09 11:33,Product1,1200,Visa,Stefan,Stavanger,190,1/12/09 10:37,58.9666667,5.75,car insurace
+1/7/09 20:22,Product1,1200,Visa,Gina,Red Deer,191,1/12/09 12:24,52.2666667,-113.8,home insurance
+1/2/09 22:00,Product1,1200,Diners,Lynne,Memphis                     ,192,1/12/09 13:18,35.14944,-90.04889,Cinema
+1/5/09 13:52,Product1,1200,Mastercard,Tammy,Morges,193,1/12/09 14:04,46.5166667,6.5,Sports
+1/8/09 20:32,Product1,1200,Visa,Kim,Calgary,194,1/12/09 14:07,51.0833333,-114.0833333,car insurace
+1/8/09 13:34,Product1,1200,Visa,Bruce,Belleville,195,1/12/09 18:31,44.1666667,-77.3833333,home insurance
+1/11/09 13:08,Product1,1200,Visa,Rosa Maria,Cincinnati                  ,196,1/12/09 18:44,39.16194,-84.45694,Cinema
+1/12/09 19:04,Product1,1200,Visa,Lydia,Comox,197,1/12/09 19:01,49.6833333,-124.9333333,Sports
+1/12/09 13:41,Product1,1200,Visa,Eric,Gasperich,198,1/13/09 1:03,49.5855556,6.1230556,car insurace
+1/11/09 10:38,Product1,1200,Mastercard,AnaPaula,Helens Bay,199,1/13/09 2:36,54.65,-5.7333333,home insurance
+1/13/09 5:57,Product1,1200,Visa,Robin,Milan,200,1/13/09 5:55,45.4666667,9.2,Cinema
+1/13/09 6:13,Product1,1200,Visa,Gitte,Staten Island               ,201,1/13/09 7:33,40.63667,-74.15917,Sports
+1/8/09 13:14,Product1,1200,Visa,Dr. Claudia,Oslo,202,1/13/09 10:49,59.9166667,10.75,car insurace
+1/2/09 11:41,Product1,1200,Visa,Crystal,Farmington,203,1/13/09 18:34,42.46444,-83.37639,home insurance
+1/7/09 19:50,Product1,1200,Diners,Delphine,Santa Monica                ,204,1/13/09 20:17,34.01944,-118.49028,Cinema
+1/1/09 20:28,Product1,1200,Visa,nathalie,Calgary,205,1/13/09 21:11,51.0833333,-114.0833333,Sports
+1/3/09 15:22,Product1,1200,Mastercard,Lindi,Vancouver,206,1/13/09 23:02,49.25,-123.1333333,car insurace
+1/12/09 3:03,Product2,3600,Mastercard,Valda,Irvine                      ,207,1/14/09 1:07,33.66944,-117.82222,home insurance
+1/5/09 8:58,Product2,3600,Mastercard,Marcia,Telgte,208,1/14/09 2:07,52.3333333,7.9,Cinema
+1/10/09 14:03,Product1,1200,Mastercard,Kevin,Cheltenham,209,1/14/09 2:22,51.9,-2.0833333,Sports
+1/13/09 11:26,Product1,1200,Visa,Clare,Keller                      ,210,1/14/09 2:39,37.61917,-75.76417,car insurace
+1/2/09 12:18,Product1,1200,Visa,Alice,Nakskov,211,1/14/09 4:05,54.8333333,11.15,home insurance
+1/14/09 4:54,Product1,1200,Mastercard,ZENA,Honolulu                    ,212,1/14/09 4:43,21.30694,-157.85833,Cinema
+1/6/09 17:15,Product1,1200,Visa,Andrea,Bubuieci,213,1/14/09 10:27,46.985,28.9425,Sports
+1/3/09 13:56,Product1,1200,Visa,Rennae,Amelia Island               ,214,1/14/09 13:03,30.66944,-81.46278,car insurace
+1/4/09 7:54,Product1,1200,Visa,Gerhard,Alliston,215,1/14/09 13:06,44.15,-79.8666667,home insurance
+1/12/09 7:28,Product1,1200,Amex,Megan,La Alberca,216,1/14/09 13:44,37.9333333,-1.1333333,Cinema
+1/6/09 15:15,Product1,1200,Mastercard,Danielle,Rathgar,217,1/14/09 14:33,53.3122222,-6.2683333,Sports
+1/13/09 23:56,Product1,1200,Mastercard,Tod,Coral Gables                ,218,1/14/09 15:17,25.72111,-80.26861,car insurace
+1/14/09 19:32,Product1,1200,Visa,Janaina,Miami                       ,219,1/14/09 19:28,25.77389,-80.19389,home insurance
+1/6/09 21:13,Product1,1200,Visa,Kofi,Vancouver,220,1/14/09 20:50,49.25,-123.1333333,Cinema
+1/14/09 11:19,Product1,1200,Visa,Jennifer,Jumeira,221,1/14/09 21:26,25.2097222,55.2477778,Sports
+1/13/09 19:39,Product1,1200,Visa,Jolene ,Englewood                   ,222,1/14/09 22:02,39.64778,-104.98722,car insurace
+1/8/09 7:26,Product1,1200,Mastercard,anne,Bournemouth,223,1/15/09 1:36,50.7166667,-1.8833333,home insurance
+1/15/09 2:40,Product1,1200,Mastercard,Alexis,Genoa                       ,224,1/15/09 2:04,42.09722,-88.69278,Cinema
+1/12/09 6:40,Product1,1200,Visa,Dez,Al 'Adliyah,225,1/15/09 4:46,26.2172222,50.5405556,Sports
+1/15/09 3:43,Product1,1200,Visa,Stephanie,Rouen,226,1/15/09 5:39,49.4333333,1.0833333,car insurace
+1/5/09 15:39,Product1,1200,Visa,Melissa ,Parkland                    ,227,1/15/09 6:01,26.30972,-80.2375,home insurance
+1/10/09 5:21,Product1,1200,Amex,CLARE,San Francisco               ,228,1/15/09 6:25,37.775,-122.41833,Cinema
+1/15/09 4:12,Product1,1200,Mastercard,catherine,Keller                      ,229,1/15/09 6:59,37.61917,-75.76417,Sports
+1/12/09 11:48,Product1,1200,Visa,Veronique ,Tsawwassen,230,1/15/09 8:56,49.0166667,-123.0833333,car insurace
+1/6/09 10:48,Product1,1200,Mastercard,Bruce and Camille,Clinton                     ,231,1/15/09 9:32,40.63667,-74.91028,home insurance
+1/14/09 9:10,Product1,1200,Mastercard,Ellen,Owensboro                   ,232,1/15/09 9:40,37.77417,-87.11333,Cinema
+1/14/09 22:44,Product1,1200,Visa,Amy,Lakewood Village            ,233,1/15/09 9:50,33.1425,-96.96917,Sports
+1/6/09 7:23,Product1,1200,Visa,Anna,Okotoks,234,1/15/09 10:00,50.7166667,-113.9666667,car insurace
+1/1/09 5:04,Product1,1200,Mastercard,Regina,Glimmen,235,1/15/09 10:50,53.1333333,6.6333333,home insurance
+1/15/09 11:56,Product1,1200,Visa,Heidi,Calgary,236,1/15/09 11:39,51.0833333,-114.0833333,Cinema
+1/15/09 11:58,Product1,1200,Visa,Jessica,Kanata,237,1/15/09 11:49,45.3333333,-75.9,Sports
+1/12/09 9:43,Product1,1200,Diners,Petra,Bergen,238,1/15/09 12:14,51.7166667,6.5,car insurace
+1/15/09 12:33,Product1,1200,Visa,Brian,College Park                ,239,1/15/09 13:28,38.98056,-76.93722,home insurance
+1/14/09 11:35,Product1,1200,Visa,Kenny,Kailua Kona                 ,240,1/15/09 15:31,19.7349,-155.9003,Cinema
+1/14/09 15:40,Product1,1200,Amex,ayse,Redondo Beach               ,241,1/15/09 15:45,33.84917,-118.3875,Sports
+1/3/09 11:08,Product1,1200,Amex,Maria and Timothy,Fountain Hls                ,242,1/15/09 16:37,33.61167,-111.71667,car insurace
+1/12/09 1:37,Product1,1200,Visa,IMAN,Brisbane,243,1/15/09 17:54,-27.5,153.0166667,home insurance
+1/16/09 7:21,Product1,2100,Mastercard,Gerald,Mahopac                     ,244,1/16/09 6:08,41.37222,-73.73389,Cinema
+1/15/09 12:54,Product1,1200,Mastercard,Annelies,Ile-Perrot,245,1/16/09 7:53,45.4,-73.9333333,Sports
+1/7/09 7:19,Product1,1200,Amex,Jocelyn,Bruxelles,246,1/16/09 8:54,50.8333333,4.3333333,car insurace
+1/3/09 9:56,Product1,1200,Visa,Kara,Chicago                     ,247,1/16/09 13:43,41.85,-87.65,home insurance
+1/16/09 17:41,Product1,1200,Visa,Orsi,Rayford                     ,248,1/16/09 17:56,30.07972,-95.41694,Cinema
+1/5/09 5:33,Product1,1200,Visa,Ben,Escondido                   ,249,1/17/09 0:35,33.11917,-117.08556,Sports
+1/2/09 0:50,Product1,1200,Visa,Sam,Tesvikiye,250,1/17/09 1:57,40.6166667,29.0666667,car insurace
+1/13/09 1:51,Product1,1200,Visa,Filip and Teresa,Centurion,251,1/17/09 2:23,-25.8744444,28.1705556,home insurance
+1/15/09 10:24,Product1,1200,Visa,Grace ,York,252,1/17/09 4:42,53.9666667,-1.0833333,Cinema
+1/11/09 8:59,Product1,1200,Visa,Chelsey ,Ashburn                     ,253,1/17/09 8:54,39.04361,-77.48778,Sports
+1/15/09 15:56,Product1,1200,Amex,Charis,Los Angeles                 ,254,1/17/09 10:54,34.05222,-118.24278,car insurace
+1/1/09 12:19,Product1,1200,Visa,Marlene,Edgewood                    ,255,1/17/09 11:38,47.25028,-122.2925,home insurance
+1/6/09 14:03,Product1,1200,Visa,Fie,New York                    ,256,1/17/09 11:44,40.71417,-74.00639,Cinema
+1/9/09 15:32,Product1,1200,Diners,Nicole ,Basingstoke,257,1/17/09 12:03,51.2666667,-1.0833333,Sports
+1/17/09 12:59,Product1,1200,Diners,Linda,Den Haag,258,1/17/09 13:07,52.0833333,4.3,car insurace
+1/12/09 12:37,Product1,1200,Visa,Janet,Marietta                    ,259,1/17/09 16:17,33.9525,-84.55,home insurance
+1/4/09 7:43,Product1,1200,Mastercard,Jamie,Houston                     ,260,1/17/09 17:31,29.76306,-95.36306,Cinema
+1/17/09 16:22,Product1,1200,Visa,Chad,West Orange                 ,261,1/17/09 18:42,40.79861,-74.23944,Sports
+1/1/09 3:51,Product1,1200,Mastercard,sunny,Amsterdam,262,1/17/09 22:34,52.35,4.9166667,car insurace
+1/18/09 5:27,Product1,1200,Visa,Anna,Downey                      ,263,1/18/09 4:42,33.94,-118.13167,home insurance
+1/18/09 5:15,Product1,1200,Diners,Roger,Urlingford,264,1/18/09 4:44,52.7205556,-7.5825,Cinema
+1/1/09 1:51,Product1,1200,Mastercard,Si,Holte,265,1/18/09 4:44,55.8166667,12.4666667,Sports
+1/18/09 6:30,Product1,1200,Visa,Sherri,Freienbach,266,1/18/09 6:21,47.2,8.75,car insurace
+1/11/09 10:51,Product1,1200,Mastercard,Katherine,Hofheim am Taunus,267,1/18/09 7:17,50.0833333,8.45,home insurance
+1/4/09 17:02,Product1,1200,Mastercard,Clare,Lafayette                   ,268,1/18/09 8:43,37.88583,-122.11694,Cinema
+1/17/09 1:23,Product1,1200,Amex,Campbell,Mushrif,269,1/18/09 9:08,29.2891667,48.05,Sports
+1/18/09 2:16,Product1,1200,Visa,Ruth,Nashville                   ,270,1/18/09 9:13,33.94556,-93.84694,car insurace
+1/18/09 11:34,Product2,3600,Visa,Cheryl,New Malden,271,1/18/09 10:27,51.4166667,-0.25,home insurance
+1/18/09 4:38,Product1,1200,Visa,Doug,Bishop Auckland,272,1/18/09 11:58,54.65,-1.6666667,Cinema
+1/18/09 13:26,Product3,7500,Mastercard,Julianne,Navan,273,1/18/09 12:20,53.6527778,-6.6813889,Sports
+1/18/09 11:53,Product1,1200,Visa,Shailesh,Joppa,274,1/18/09 12:23,39.43361,-76.35806,car insurace
+1/18/09 12:04,Product1,1200,Visa,Conrad,Joppa,275,1/18/09 12:23,39.43361,-76.35806,home insurance
+1/13/09 19:54,Product1,1200,Diners,Alison,Hampton                     ,276,1/18/09 12:51,40.70694,-74.95639,Cinema
+1/5/09 21:06,Product1,1200,Mastercard,Tracy,Louisville                  ,277,1/18/09 13:58,38.25417,-85.75944,Sports
+1/14/09 6:32,Product1,1200,Visa,Kate,Broadlands                  ,278,1/18/09 14:04,39.04361,-77.48778,car insurace
+1/4/09 23:48,Product1,1200,Diners,Sarka,Yellowknife,279,1/18/09 16:17,62.45,-114.35,home insurance
+1/18/09 16:32,Product2,3600,Visa,Therese,Los Angeles                 ,280,1/18/09 16:54,34.05222,-118.24278,Cinema
+1/18/09 17:04,Product2,3600,Visa,Abdul-L,New York                    ,281,1/18/09 16:58,40.71417,-74.00639,Sports
+1/18/09 17:20,Product2,3600,Visa,heidi,Saint Paul                  ,282,1/18/09 17:16,44.94444,-93.09306,car insurace
+1/18/09 17:39,Product2,3600,Visa,jiyoung,New York                    ,283,1/18/09 17:34,40.71417,-74.00639,home insurance
+1/11/09 11:20,Product1,1200,Visa,Klara,Spring Lake Park            ,284,1/18/09 17:43,45.10778,-93.23778,Cinema
+1/13/09 20:59,Product1,1200,Mastercard,Andrew,Winnipeg,285,1/18/09 19:17,49.8833333,-97.1666667,Sports
+1/12/09 16:50,Product1,1200,Visa,Vicki and Bill,Seattle                     ,286,1/19/09 1:22,47.60639,-122.33083,car insurace
+1/12/09 15:12,Product1,1200,Mastercard,David,Deptford                    ,287,1/19/09 3:47,39.83806,-75.15306,home insurance
+1/6/09 12:27,Product1,1200,Mastercard,Antonella,Amsterdam,288,1/19/09 4:59,52.35,4.9166667,Cinema
+1/9/09 18:52,Product1,1200,Visa,David,Alpharetta                  ,289,1/19/09 6:12,34.07528,-84.29417,Sports
+1/18/09 23:17,Product1,1200,Visa,Greg,Washington                  ,290,1/19/09 6:13,38.895,-77.03667,car insurace
+1/7/09 8:21,Product1,1200,Visa,Jannik ,Holmenkollen,291,1/19/09 6:54,59.9666667,10.6666667,home insurance
+1/3/09 9:54,Product1,1200,Visa,Sylvia,Zekeriyakoy,292,1/19/09 7:37,41.1980556,29.0302778,Cinema
+1/5/09 19:37,Product1,1200,Amex,Bernadette,Washington                  ,293,1/19/09 7:42,38.895,-77.03667,Sports
+1/4/09 12:49,Product1,1200,Diners,Denise,Montreal,294,1/19/09 7:58,45.5,-73.5833333,car insurace
+1/8/09 11:55,Product2,3600,Visa,Caren,Braunschweig,295,1/19/09 8:31,52.2666667,10.5333333,home insurance
+1/14/09 18:21,Product1,1200,Visa,luciana,Athens                      ,296,1/19/09 11:21,33.96083,-83.37806,Cinema
+1/11/09 19:01,Product1,1200,Diners,Maja,Hoschton                    ,297,1/19/09 12:47,34.09639,-83.76139,Sports
+1/14/09 5:20,Product2,3600,Visa,Kristen,Binningen,298,1/19/09 13:07,47.5333333,7.5666667,car insurace
+1/15/09 8:07,Product1,1200,Visa,Kirstie,Royal Oak                   ,299,1/19/09 14:59,42.48944,-83.14472,home insurance
+1/15/09 8:10,Product1,1200,Visa,Scott ,Royal Oak                   ,300,1/19/09 14:59,42.48944,-83.14472,Cinema
+1/2/09 17:45,Product1,1200,Mastercard,Jammie,Belmont                     ,301,1/19/09 15:36,42.39583,-71.17917,Sports
+1/19/09 16:10,Product1,1200,Mastercard,Frank,Old Greenwich               ,302,1/19/09 16:00,41.02278,-73.56528,car insurace
+1/19/09 16:55,Product1,1200,Mastercard,scott,Coconut Grove               ,303,1/19/09 16:18,25.71222,-80.25722,home insurance
+1/10/09 17:41,Product1,1200,Visa,Jiri,Vienna                      ,304,1/19/09 17:52,38.90111,-77.26556,Cinema
+1/18/09 13:49,Product2,3600,Visa,Bev,San Ramon                   ,305,1/19/09 18:07,37.78,-121.97694,Sports
+1/15/09 5:47,Product1,1200,Visa,Dave and Amy,Norfolk                     ,306,1/19/09 22:48,36.84667,-76.28556,car insurace
+1/19/09 23:06,Product1,1200,Mastercard,Rebecca,Norfolk                     ,307,1/19/09 22:53,36.84667,-76.28556,home insurance
+1/19/09 11:12,Product1,1200,Visa,Melissa,Aberdeen,308,1/20/09 0:35,57.1333333,-2.1,Cinema
+1/4/09 1:38,Product1,1200,Amex,jeremy,Charlestown,309,1/20/09 1:08,-32.95,151.6666667,Sports
+1/20/09 3:11,Product1,1200,Visa,Randy,Wigan,310,1/20/09 3:06,53.5333333,-2.6166667,car insurace
+1/3/09 10:52,Product1,1200,Visa,Djeiny,Rockville                   ,311,1/20/09 6:47,39.01806,-77.20889,home insurance
+1/20/09 5:24,Product3 ,7500,Mastercard,Amanda,Shreveport                  ,312,1/20/09 7:15,32.525,-93.75,Cinema
+1/20/09 6:03,Product1,1200,Mastercard,Andrea ,Shreveport                  ,313,1/20/09 7:15,32.525,-93.75,Sports
+1/10/09 11:37,Product1,1200,Amex,Joanna,Little Silver               ,314,1/20/09 7:42,40.33667,-74.0475,car insurace
+1/20/09 5:50,Product1,1200,Visa,Jessica,Abbey Town,315,1/20/09 7:46,54.8333333,-3.2833333,home insurance
+1/19/09 16:32,Product1,1200,Amex,alison,Mid City West               ,316,1/20/09 10:09,39.95222,-75.16417,Cinema
+1/18/09 10:42,Product1,1200,Visa,malin,Atlanta,317,1/20/09 11:09,33.74889,-84.38806,Sports
+1/7/09 6:11,Product2,3600,Visa,Tiffany ,Paris,318,1/20/09 11:22,48.8666667,2.3333333,car insurace
+1/3/09 8:29,Product1,1200,Visa,Genevieve,Milton Keynes,319,1/20/09 11:31,52.0333333,-0.7,home insurance
+1/1/09 2:09,Product1,1200,Mastercard,Saraya,Dresden,320,1/20/09 11:56,51.05,13.75,Cinema
+1/20/09 12:34,Product1,1200,Mastercard,Anastasia,NYC                         ,321,1/20/09 12:55,40.71417,-74.00639,Sports
+1/20/09 3:51,Product1,1200,Visa,Elizabeth,The Grange,322,1/20/09 13:11,-24.8166667,152.4166667,car insurace
+1/15/09 11:26,Product1,1200,Visa,Nicole,Brookline                   ,323,1/20/09 14:01,42.33167,-71.12167,home insurance
+1/5/09 16:55,Product1,1200,Visa,Jeffrey,Montreal-Nord,324,1/20/09 14:38,45.6,-73.6166667,Cinema
+1/12/09 19:47,Product1,1200,Mastercard,Blanca Gabriela ,Irving                      ,325,1/20/09 18:02,32.81389,-96.94861,Sports
+1/4/09 19:20,Product1,1200,Amex,Elisa,Ottawa Hills                ,326,1/20/09 18:03,41.66417,-83.64333,car insurace
+1/10/09 8:33,Product2,3600,Mastercard,Patricia ,Portola Valley              ,327,1/20/09 22:06,37.38417,-122.23417,home insurance
+1/9/09 14:51,Product1,1200,Visa,Bob,Sydney,328,1/21/09 0:29,-33.8833333,151.2166667,Cinema
+1/16/09 2:41,Product3,7500,Visa,Kristyn,Kearns                      ,329,1/21/09 1:02,40.66,-111.99556,Sports
+1/16/09 18:36,Product1,1200,Visa,Elizabeth,Wollongong,330,1/21/09 1:49,-34.4333333,150.8833333,car insurace
+1/20/09 8:10,Product1,1200,Amex,Cathy,Brooklyn                    ,331,1/21/09 5:16,40.65,-73.95,home insurance
+1/6/09 12:45,Product2,3600,Amex,Kaylee,Penngrove                   ,332,1/21/09 11:18,38.29972,-122.66556,Cinema
+1/10/09 8:13,Product1,1200,Visa,suzanne,Lemont                      ,333,1/21/09 11:35,41.67361,-88.00167,Sports
+1/7/09 14:15,Product1,1200,Mastercard,Cassandra,San Carlos                  ,334,1/21/09 12:00,37.50722,-122.25944,car insurace
+1/8/09 15:27,Product1,1200,Mastercard,Jennifer,Chicago                     ,335,1/21/09 13:28,41.85,-87.65,home insurance
+1/21/09 11:36,Product1,1200,Visa,nicole,Oslo,336,1/21/09 13:47,59.9166667,10.75,Cinema
+1/21/09 14:06,Product1,1200,Visa,Sean,Wantagh,337,1/21/09 14:06,40.68361,-73.51056,Sports
+1/2/09 2:28,Product1,1200,Mastercard,Morgan,Coomera,338,1/21/09 16:37,-27.8833333,153.3,car insurace
+1/19/09 19:07,Product1,1200,Diners,Harriet,Fort Oglethorpe             ,339,1/21/09 17:02,34.94889,-85.25694,home insurance
+1/18/09 6:27,Product1,1200,Mastercard,Janine,Corbin City                 ,340,1/21/09 17:10,39.24167,-74.81556,Cinema
+1/20/09 11:58,Product1,1200,Mastercard,Debora,Lakeside                    ,341,1/21/09 17:25,32.85722,-116.92139,Sports
+1/20/09 16:32,Product1,1200,Visa,Vishpala,Margate                     ,342,1/21/09 19:05,26.30972,-80.2375,car insurace
+1/1/09 7:09,Product1,1200,Amex,Emer,South Palm Beach            ,343,1/21/09 19:14,26.70528,-80.03667,home insurance
+1/21/09 14:55,Product1,1200,Diners,john,New York                    ,344,1/21/09 20:34,40.71417,-74.00639,Cinema
+1/7/09 22:29,Product1,1200,Mastercard,lailani,Anchorage                   ,345,1/21/09 22:30,61.21806,-149.90028,Shopping Mall
+1/11/09 22:22,Product2,3600,Visa,STEPHANIE,Mona Vale,346,1/21/09 22:33,-33.6666667,151.3,Restaurant
+1/21/09 14:25,Product1,1200,Visa,Tricia,Castricum,347,1/22/09 0:38,52.55,4.6666667,Cinema
+1/18/09 16:50,Product1,1200,Visa,Celina,North Brunswick             ,348,1/22/09 1:17,40.4497,-74.482,Sports
+1/21/09 12:08,Product2,3600,Visa,Rosemary,Jacksonville                ,349,1/22/09 6:13,30.33194,-81.65583,car insurace
+1/22/09 6:41,Product1,1200,Visa,Patrick,Baytown                     ,350,1/22/09 6:54,29.73528,-94.97722,home insurance
+1/12/09 9:23,Product1,1200,Mastercard,Jacob,Winter Haven                ,351,1/22/09 7:59,28.02194,-81.73306,Cinema
+1/22/09 8:23,Product1,1200,Visa,elisabeth,Gonzaga Univ                ,352,1/22/09 8:14,47.65889,-117.425,Shopping Mall
+1/3/09 6:41,Product2,3600,Visa,ayelet,Malmo,353,1/22/09 11:24,55.6,13,Restaurant
+1/1/09 12:20,Product2,3600,Visa,seemab,San Pawl tat-Targa,354,1/22/09 12:00,35.9202778,14.4425,Cinema
+1/4/09 22:00,Product2,3600,Amex,Lucien,Wiesbaden,355,1/22/09 12:21,50.0833333,8.25,Sports
+1/21/09 2:15,Product1,1200,Visa,Kevin ,London,356,1/22/09 13:46,51.52721,0.14559,car insurace
+1/1/09 14:22,Product1,1200,Mastercard,Liban,Stavanger,357,1/22/09 14:38,58.9666667,5.75,home insurance
+1/16/09 1:07,Product2,3600,Diners,Lesley,Cork,358,1/22/09 15:06,51.8986111,-8.4958333,Cinema
+1/20/09 8:51,Product1,1200,Visa,Marie,Winchester                  ,359,1/22/09 18:08,42.45222,-71.1375,Shopping Mall
+1/4/09 9:02,Product1,1200,Visa,Charlene,Calgary,360,1/22/09 19:27,51.0833333,-114.0833333,Restaurant
+1/6/09 8:34,Product1,1200,Visa,Orit,Dallas                      ,361,1/22/09 21:41,32.78333,-96.8,Cinema
+1/8/09 4:16,Product1,1200,Visa,Alan,Malahide,362,1/23/09 2:21,53.4508333,-6.1544444,Sports
+1/23/09 3:33,Product2,3600,Mastercard,Anja Langer,Saint Paul                  ,363,1/23/09 3:00,44.94444,-93.09306,car insurace
+1/6/09 4:18,Product1,1200,Visa,Lina,Edinburgh,364,1/23/09 3:22,55.95,-3.2,home insurance
+1/23/09 3:30,Product1,1200,Amex,Larry,Naarden,365,1/23/09 3:40,52.3,5.15,Cinema
+1/10/09 4:04,Product1,1200,Visa,Jessica,Oldenburg,366,1/23/09 5:28,53.1666667,8.2,Shopping Mall
+1/5/09 2:57,Product3,7500,Visa,Marion,Rennes,367,1/23/09 7:29,48.0833333,-1.6833333,Restaurant
+1/21/09 14:15,Product1,1200,Amex,Eric,Ely                         ,368,1/23/09 10:35,39.2475,-114.88778,Cinema
+1/21/09 6:39,Product1,1200,Amex,Miriane,Norfolk                     ,369,1/23/09 12:48,36.84667,-76.28556,Sports
+1/19/09 8:14,Product1,1200,Visa,Jeff,Houston                     ,370,1/23/09 12:52,29.76306,-95.36306,car insurace
+1/23/09 8:00,Product1,1200,Diners,christina,Chepel,371,1/23/09 12:59,47.4166667,19.0833333,home insurance
+1/22/09 23:35,Product1,1200,Mastercard,Shannon,Buffalo Grove               ,372,1/23/09 22:05,41.98111,-89.595,Cinema
+1/14/09 3:09,Product1,1200,Mastercard,Angela,Newburgh,373,1/24/09 2:12,56.3333333,-3.25,Shopping Mall
+1/16/09 1:51,Product1,1200,Visa,Angela,Vienna,374,1/24/09 5:39,48.2,16.3666667,Restaurant
+1/1/09 6:29,Product1,1200,Mastercard,Elaine,Vicenza,375,1/24/09 5:51,45.55,11.55,Cinema
+1/21/09 7:59,Product1,1200,Visa,Helen,Mechanics Grove             ,376,1/24/09 6:01,39.89694,-76.16389,Sports
+1/23/09 7:37,Product2,3600,Amex,Fatisha,Miami                       ,377,1/24/09 6:54,25.77389,-80.19389,car insurace
+1/18/09 14:39,Product1,1200,Visa,Nina,Silver Spring               ,378,1/24/09 7:31,38.99056,-77.02639,home insurance
+1/24/09 9:01,Product2,3600,Visa,Barbara,Kirriemuir,379,1/24/09 8:02,56.6666667,-3,Cinema
+1/15/09 1:41,Product1,1200,Diners,Karen,Roquefort,380,1/24/09 8:36,43.25,5.6166667,Shopping Mall
+1/17/09 7:23,Product1,1200,Visa,Georgina,Portland                    ,381,1/24/09 8:54,45.52361,-122.675,Restaurant
+1/23/09 11:37,Product1,1200,Diners,Kellie,Staten Island               ,382,1/24/09 8:59,40.56472,-74.1275,Cinema
+1/19/09 15:02,Product1,1200,Mastercard,Terry,San Antonio                 ,383,1/24/09 10:26,29.42389,-98.49333,Sports
+1/11/09 7:10,Product2,3600,Visa,LAURIE,Guildford,384,1/24/09 14:54,51.2166667,-0.5666667,car insurace
+1/10/09 3:28,Product1,1200,Visa,frauke,Horten,385,1/24/09 15:10,59.4136111,10.4669444,home insurance
+1/7/09 19:03,Product2,3600,Mastercard,Cindy,Englewood                   ,386,1/24/09 19:19,39.64778,-104.98722,Cinema
+1/17/09 14:02,Product1,1200,Visa,Simone,San Antonio                 ,387,1/24/09 21:29,29.42389,-98.49333,Shopping Mall
+1/25/09 0:09,Product1,1200,Visa,Hilde ,Princeville                 ,388,1/25/09 0:12,22.22361,-159.48528,Restaurant
+1/9/09 14:27,Product1,1200,Visa,Leah,Castleknock,389,1/25/09 0:57,53.3786111,-6.3922222,Cinema
+1/9/09 14:32,Product1,1200,Visa,Laine,Castleknock,390,1/25/09 0:57,53.3786111,-6.3922222,Sports
+1/11/09 15:59,Product1,1200,Visa,kirsten,Bishops Stortford,391,1/25/09 3:03,51.8666667,0.1666667,car insurace
+1/6/09 14:38,Product2,3600,Mastercard,Elizabeth,Den Haag,392,1/25/09 3:13,52.0833333,4.3,home insurance
+1/6/09 9:52,Product1,1200,Mastercard,Anna,Lafayette                   ,393,1/25/09 10:19,37.88583,-122.11694,Cinema
+1/1/09 9:21,Product1,1200,Diners,Babs,Blackpool,394,1/25/09 10:52,53.8166667,-3.05,Shopping Mall
+1/3/09 7:58,Product1,1200,Mastercard,Gerlinde,Hellerup,395,1/25/09 11:13,55.7333333,12.5833333,Restaurant
+1/11/09 11:36,Product1,1200,Mastercard,Hollyn,London,396,1/25/09 11:16,51.51334,-0.08895,Cinema
+1/13/09 14:53,Product1,1200,Visa,leiser,N Java                      ,397,1/25/09 11:33,42.68361,-78.33806,Sports
+1/1/09 10:06,Product2,3600,Mastercard,Irene,Munich,398,1/25/09 11:37,48.15,11.5833333,car insurace
+1/16/09 5:07,Product1,1200,Amex,Lisa,Brulon,399,1/25/09 11:42,47.9666667,-0.2333333,home insurance
+1/6/09 16:37,Product1,1200,Visa,Ann,Austin                      ,400,1/25/09 12:17,30.26694,-97.74278,Cinema
+1/18/09 17:21,Product1,1200,Mastercard,Nichol Jane,Midland Park                ,401,1/25/09 14:00,40.98917,-74.14111,Shopping Mall
+1/13/09 15:18,Product1,1200,Amex,Beatriz,Centerport                  ,402,1/25/09 14:01,40.88528,-73.37667,Restaurant
+1/24/09 8:21,Product1,1200,Mastercard,corina,Neustift am Walde,403,1/25/09 14:22,48.25,16.3,Cinema
+1/24/09 8:25,Product1,1200,Mastercard,manon,Neustift am Walde,404,1/25/09 14:22,48.25,16.3,Sports
+1/18/09 13:06,Product1,1200,Diners,Isabelle,Shorewood                   ,405,1/25/09 14:49,44.90333,-93.56611,car insurace
+1/22/09 18:44,Product1,1200,Visa,Lynne,Southlake                   ,406,1/25/09 15:02,32.94111,-97.13389,home insurance
+1/8/09 8:58,Product1,1200,Mastercard,Doug,Huntington                  ,407,1/25/09 17:39,40.86806,-73.42611,Cinema
+1/4/09 9:54,Product1,1200,Mastercard,AMY,The Woodlands               ,408,1/25/09 18:23,30.15778,-95.48917,Shopping Mall
+1/13/09 20:22,Product1,1200,Visa,Kim,Kelowna,409,1/25/09 19:25,49.9,-119.4833333,Restaurant
+1/9/09 10:22,Product1,1200,Mastercard,HELIDA,White House                 ,410,1/25/09 19:35,36.47028,-86.65139,Cinema
+1/5/09 12:28,Product1,1200,Visa,Cameron,Rungsted,411,1/25/09 23:22,55.8841667,12.5419444,Sports
+1/26/09 3:43,Product1,1200,Mastercard,Wendy,Lake Mahopac                ,412,1/26/09 3:10,41.37222,-73.73389,car insurace
+1/26/09 3:49,Product2,3600,Mastercard,Jane,Biot,413,1/26/09 3:18,43.6333333,7.1,home insurance
+1/11/09 13:16,Product2,3600,Visa,shelby,Plantation                  ,414,1/26/09 3:42,26.12194,-80.14361,Cinema
+1/22/09 15:32,Product1,1200,Mastercard,Tara,Killiney,415,1/26/09 4:32,53.2522222,-6.1125,Shopping Mall
+1/9/09 14:25,Product1,1200,Amex,James,Guer,416,1/26/09 5:32,47.9,-2.1166667,Restaurant
+1/21/09 11:28,Product1,800,Amex,Heloise ,Arlington                   ,417,1/26/09 6:23,38.89028,-77.08444,Cinema
+1/1/09 14:19,Product1,1200,Mastercard,Gabriel,Three Hills,418,1/26/09 7:17,51.7,-113.2666667,Sports
+1/26/09 4:30,Product1,1200,Visa,Jodie ,Great Falls,419,1/26/09 7:48,38.99806,-77.28861,car insurace
+1/7/09 4:45,Product1,1200,Amex,Jeremy,London,420,1/26/09 8:01,51.52721,0.14559,home insurance
+1/11/09 12:12,Product1,1200,Visa,Helga,Clontarf,421,1/26/09 10:00,53.3591667,-6.2161111,Cinema
+1/26/09 10:24,Product1,1200,Visa,Eleanor,Vancouver,422,1/26/09 10:12,49.25,-123.1333333,Shopping Mall
+1/26/09 8:58,Product1,1200,Diners,Miss,London,423,1/26/09 11:14,51.52721,0.14559,Restaurant
+1/7/09 17:51,Product1,1200,Visa,Marie,Dickerson                   ,424,1/26/09 11:35,39.22,-77.42444,Cinema
+1/18/09 20:16,Product1,1200,Mastercard,Lisa,Princeton                   ,425,1/26/09 13:07,40.34861,-74.65944,Sports
+1/13/09 9:51,Product1,1200,Mastercard,Priska,Calgary,426,1/26/09 17:24,51.0833333,-114.0833333,car insurace
+1/24/09 18:43,Product1,1200,Visa,Katrine,North Tustin                ,427,1/26/09 21:29,33.76444,-117.79306,home insurance
+1/5/09 0:46,Product1,1200,Amex,Lisa,Gurgaon,428,1/27/09 0:17,28.4666667,77.0333333,Cinema
+1/9/09 1:12,Product1,1200,Visa,Sabrina,Rambouillet,429,1/27/09 2:56,48.65,1.8333333,Shopping Mall
+1/26/09 6:25,Product1,1200,Visa,prof,Gladwyne                    ,430,1/27/09 3:58,40.04056,-75.27944,Restaurant
+1/21/09 16:57,Product1,1200,Mastercard,KeithMichelle,Houston                     ,431,1/27/09 4:43,29.76306,-95.36306,Cinema
+1/5/09 5:33,Product1,1200,Mastercard,Kim,London,432,1/27/09 4:49,51.52721,0.14559,Sports
+1/27/09 5:10,Product1,1200,Visa,anissa,Slough,433,1/27/09 4:51,51.5,-0.5833333,car insurace
+1/7/09 8:00,Product1,1200,Mastercard,john,Glan-Munchweiler,434,1/27/09 6:30,49.4666667,7.4333333,home insurance
+1/20/09 7:08,Product2,3600,Visa,Miye,Downingtown                 ,435,1/27/09 6:38,40.00639,-75.70361,Cinema
+1/27/09 2:26,Product1,1200,Diners,Heidi,MT Pleasant                 ,436,1/27/09 6:41,33.15667,-94.96806,Shopping Mall
+1/5/09 6:14,Product1,1200,Mastercard,T,Veigy-Foncenex,437,1/27/09 7:01,46.2666667,6.25,Restaurant
+1/13/09 8:11,Product2,3600,Visa,Daniele,Katy                        ,438,1/27/09 7:49,29.78556,-95.82417,Cinema
+1/10/09 9:18,Product1,1200,Diners,luisa,Gorey,439,1/27/09 7:51,49.2,-2.0333333,Sports
+1/8/09 18:52,Product1,1200,Visa,Nadine,Belgrade                    ,440,1/27/09 9:40,45.77611,-111.17611,car insurace
+1/12/09 10:06,Product1,1200,Mastercard,Tina,Calgary,441,1/27/09 14:26,51.0833333,-114.0833333,home insurance
+1/1/09 19:25,Product1,1200,Diners,Damali,Toronto,442,1/27/09 14:59,43.6666667,-79.4166667,Cinema
+1/27/09 15:28,Product1,1200,Visa,Katherine,Corrales                    ,443,1/27/09 15:17,35.23778,-106.60611,Shopping Mall
+1/2/09 18:43,Product1,1200,Visa,Kathryn,Cork,444,1/27/09 15:43,51.8986111,-8.4958333,Restaurant
+1/8/09 18:41,Product1,1200,Diners,Veronique,Tenafly                     ,445,1/27/09 18:12,40.92528,-73.96333,Cinema
+1/4/09 18:34,Product1,1200,Visa,Erica,Leesburg                    ,446,1/27/09 18:37,39.11556,-77.56389,Sports
+1/25/09 8:32,Product1,1200,Visa,L,Alcona,447,1/27/09 19:53,50.0666667,-91.75,car insurace
+1/23/09 22:19,Product1,1200,Mastercard,Diana,Kuala Lumpur,448,1/27/09 19:54,3.1666667,101.7,home insurance
+1/7/09 10:03,Product1,1200,Mastercard,Emma,Sydney,449,1/27/09 20:18,-33.8833333,151.2166667,Cinema
+1/18/09 3:46,Product1,1200,Visa,Marina,Nerang,450,1/27/09 23:52,-27.9833333,153.3333333,Shopping Mall
+1/28/09 0:40,Product1,1200,Mastercard,Natalie ,Bryceville                  ,451,1/28/09 0:01,30.38444,-81.93889,Restaurant
+1/2/09 15:18,Product1,1200,Diners,Brenda,Saffron Walden,452,1/28/09 1:26,52.0166667,0.25,Cinema
+1/18/09 13:59,Product1,1200,Diners,Nita,Sutton,453,1/28/09 4:07,53.3905556,-6.1216667,Sports
+1/16/09 9:54,Product1,1200,Mastercard,Marian,Durban,454,1/28/09 6:26,-29.85,31.0166667,car insurace
+1/28/09 7:07,Product1,1200,Visa,Kevin,Berkeswell,455,1/28/09 7:18,52.4,-1.6333333,home insurance
+1/28/09 7:31,Product1,1200,Visa,cari,Dryden                      ,456,1/28/09 7:34,36.7775,-82.94167,Cinema
+1/18/09 12:32,Product1,1200,Visa,Cassandra,Santry,457,1/28/09 7:41,53.3986111,-6.2597222,Shopping Mall
+1/13/09 14:05,Product1,1200,Amex,Christof and Heidi,Barcelona,458,1/28/09 7:45,41.3833333,2.1833333,Restaurant
+1/28/09 7:49,Product1,1200,Visa,Ina,Fayetteville                ,459,1/28/09 7:47,35.0525,-78.87861,Cinema
+1/28/09 3:07,Product1,1200,Visa,Lisa,Anse Comeau,460,1/28/09 8:08,49.2166667,-68.15,Sports
+1/12/09 15:16,Product1,1200,Visa,Camille and Carmen,Thorlakshofn,461,1/28/09 8:44,63.85,-21.3666667,car insurace
+1/6/09 11:17,Product2,3600,Visa,Trina,Overland                    ,462,1/28/09 9:23,38.98222,-94.67056,home insurance
+1/23/09 9:49,Product1,1200,Visa,Ginger,King City,463,1/28/09 9:43,43.9333333,-79.5333333,Cinema
+1/24/09 4:01,Product1,1200,Visa,breon,Leighton Buzzard,464,1/28/09 10:12,51.9166667,-0.65,Shopping Mall
+1/25/09 18:21,Product1,1200,Visa,Marion,Umea,465,1/28/09 10:19,63.8333333,20.25,Restaurant
+1/15/09 10:51,Product1,1200,Mastercard,Pia ,Sola,466,1/28/09 10:39,58.8833333,5.6,Cinema
+1/2/09 5:14,Product1,1200,Visa,Dr. Donald,Stockton-on-Tees,467,1/28/09 11:07,54.5833333,-1.4166667,Sports
+1/9/09 10:35,Product2,3600,Visa,Jenna and Paul,Senatobia                   ,468,1/28/09 11:08,34.6175,-89.96861,car insurace
+1/4/09 10:16,Product1,1200,Mastercard,Rebecca,Berlin,469,1/28/09 11:09,52.5166667,13.4,home insurance
+1/2/09 12:16,Product1,1200,Mastercard,Monique,Waldorf                     ,470,1/28/09 12:07,38.62444,-76.93944,Cinema
+1/28/09 12:31,Product1,1200,Diners,lilia ,Brooklyn                    ,471,1/28/09 12:30,40.65,-73.95,Shopping Mall
+1/14/09 12:07,Product1,1200,Mastercard,Lainey,Lakeville                   ,472,1/28/09 12:37,44.64972,-93.2425,Restaurant
+1/16/09 7:20,Product2,3600,Mastercard,Jag,Saint-Cergues,473,1/28/09 12:43,46.2333333,6.3166667,Cinema
+1/6/09 9:55,Product1,1200,Mastercard,Charlene ,Vancouver,474,1/28/09 13:17,49.25,-123.1333333,Sports
+1/7/09 12:55,Product1,1200,Amex,Fiona,Stamford                    ,475,1/28/09 13:24,41.05333,-73.53917,car insurace
+1/19/09 12:14,Product1,1200,Mastercard,burt,Rathfarnham,476,1/28/09 13:28,53.3005556,-6.2827778,home insurance
+1/13/09 15:19,Product2,3600,Visa,Maggie,Paris,477,1/28/09 14:11,48.8666667,2.3333333,Cinema
+1/18/09 8:56,Product1,1200,Mastercard,Stanford,Howell                      ,478,1/28/09 14:37,42.60722,-83.92944,Shopping Mall
+1/4/09 17:54,Product1,1200,Amex,ruth,Encinitas                   ,479,1/28/09 15:13,33.03694,-117.29111,Restaurant
+1/5/09 13:46,Product1,1200,Visa,Courtney,Atchison                    ,480,1/28/09 17:10,39.56306,-95.12139,Cinema
+1/5/09 10:49,Product2,3600,Amex,Courtney,Mililani                    ,481,1/28/09 18:13,21.42556,-157.96083,Sports
+1/12/09 18:24,Product1,1200,Diners,Anthony,Victor                      ,482,1/28/09 18:19,42.9825,-77.40917,car insurace
+1/18/09 4:01,Product1,1200,Visa,Eleanor,Fairbanks                   ,483,1/28/09 23:56,64.83778,-147.71639,home insurance
+1/16/09 10:58,Product1,1200,Visa,GAIA,Soro,484,1/29/09 3:16,55.4333333,11.5666667,Cinema
+1/13/09 8:20,Product1,1200,Mastercard,Zane,Warlingham,485,1/29/09 3:25,51.3,-0.05,Shopping Mall
+1/12/09 1:42,Product1,1200,Mastercard,Beate,Hamburg,486,1/29/09 4:33,53.55,10,Restaurant
+1/28/09 13:07,Product1,1200,Amex,BALA,Accokeek                    ,487,1/29/09 4:40,38.6675,-77.02861,Cinema
+1/29/09 5:43,Product1,1200,Visa,Mrs,Sunnyvale                   ,488,1/29/09 5:18,37.36889,-122.03528,Sports
+1/29/09 5:30,Product1,1200,Diners,Vanessa,Ithaca                      ,489,1/29/09 6:56,42.44056,-76.49694,car insurace
+1/13/09 18:08,Product1,1200,Amex,Amanda,Houston                     ,490,1/29/09 7:34,29.76306,-95.36306,home insurance
+1/9/09 15:24,Product1,1200,Mastercard,alex ,Farmingtn Hls               ,491,1/29/09 8:05,42.46444,-83.37639,Cinema
+1/23/09 15:33,Product1,1200,Mastercard,T,Brooklyn                    ,492,1/29/09 11:02,40.65,-73.95,Shopping Mall
+1/29/09 12:28,Product1,1200,Mastercard,Alva and Martin,Great Falls                 ,493,1/29/09 12:31,38.99806,-77.28861,Restaurant
+1/13/09 11:31,Product1,1200,Visa,Anett,Gosport,494,1/29/09 12:48,50.8,-1.1333333,Cinema
+1/29/09 10:09,Product2,3600,Mastercard,Jacqui,Scottsdale                  ,495,1/29/09 12:58,33.50917,-111.89833,Sports
+1/29/09 15:08,Product1,1200,Visa,KERRY,Sunnyvale                   ,496,1/29/09 14:04,37.36889,-122.03528,car insurace
+1/4/09 5:12,Product1,1200,Visa,DeeDee,Songnae-dong,497,1/29/09 16:41,37.5333333,127.1166667,home insurance
+1/22/09 22:16,Product2,3600,Mastercard,leanne,Clyde Hill                  ,498,1/29/09 16:51,47.61056,-122.19944,Cinema
+1/5/09 19:26,Product1,1200,Visa,katie,Ruschlikon,499,1/30/09 1:06,47.3,8.55,Shopping Mall
+1/11/09 12:22,Product1,1200,Visa,Marina,Minneapolis                 ,500,1/30/09 2:10,44.98,-93.26361,Restaurant
+1/2/09 9:31,Product1,1200,Visa,camilla,Chicago                     ,501,1/30/09 5:35,41.85,-87.65,Cinema
+1/5/09 11:21,Product1,1200,Visa,pirunkit,Petworth,502,1/30/09 5:54,50.9833333,-0.6,Sports
+1/17/09 9:49,Product1,1200,Diners,Kathrin,Abu Dhabi,503,1/30/09 8:45,24.4666667,54.3666667,car insurace
+1/28/09 1:38,Product1,1200,Mastercard,Kate,Stockholm,504,1/30/09 9:18,59.3333333,18.05,home insurance
+1/19/09 10:32,Product1,1200,Mastercard,Maie,Queen Creek                 ,505,1/30/09 10:41,33.24861,-111.63361,Cinema
+1/26/09 12:05,Product1,1250,Mastercard,verena,Queen Creek                 ,506,1/30/09 10:41,33.24861,-111.63361,Shopping Mall
+1/7/09 18:53,Product1,1200,Visa,Marie-Christine,Durham                      ,507,1/30/09 10:46,35.99389,-78.89889,Restaurant
+1/26/09 11:38,Product1,1200,Mastercard,Gabriella,Austin                      ,508,1/30/09 13:15,30.26694,-97.74278,Cinema
+1/8/09 13:19,Product1,1200,Mastercard,valerie et nicolas,Glenn Dale                  ,509,1/30/09 17:40,38.9875,-76.82083,Sports
+1/11/09 14:56,Product1,1200,Visa,Nicole,Aardal,510,1/31/09 4:21,61.55,6.35,car insurace
+1/30/09 20:36,Product1,1200,Visa,Renee,Edinburg                    ,511,1/31/09 4:47,26.30139,-98.16306,home insurance
+1/1/09 8:09,Product1,1200,Mastercard,Nicole,South Melbourne,512,1/31/09 5:40,-37.8333333,144.9666667,Cinema
+1/17/09 11:09,Product1,1200,Mastercard,Joachim,Fortaleza,513,1/31/09 6:42,-3.7166667,-38.5,Shopping Mall
+1/31/09 7:22,Product1,1200,Visa,Monica ,Weston                      ,514,1/31/09 6:43,41.20083,-73.38111,Restaurant
+1/31/09 9:12,Product1,1200,Visa,Nanci,Reading,515,1/31/09 9:08,51.4333333,-1,Cinema
+1/31/09 8:56,Product1,1200,Mastercard,Laura,Coconut Grove               ,516,1/31/09 9:22,25.71222,-80.25722,Sports
+1/31/09 9:00,Product1,1200,Visa,ciara and mike,London,517,1/31/09 10:07,51.51334,-0.08895,car insurace
+1/11/09 14:07,Product1,1200,Visa,Sarah,San Francisco               ,518,1/31/09 10:20,37.775,-122.41833,home insurance
+1/1/09 12:25,Product2,3600,Mastercard,Anne-line,Zug,519,1/31/09 10:58,47.1666667,8.5166667,Cinema
+1/31/09 11:14,Product2,3600,Mastercard,Ulrika,Scottsdale                  ,520,1/31/09 11:10,33.50917,-111.89833,Shopping Mall
+1/2/09 9:57,Product1,1200,Amex,leigh,Potomac Falls               ,521,1/31/09 11:24,39.05,-77.40111,Restaurant
+1/4/09 13:20,Product1,1200,Mastercard,Nuria,Superior                    ,522,1/31/09 13:17,39.97778,-105.13139,Cinema
+1/22/09 12:32,Product1,1200,Mastercard,Tejal,London,523,1/31/09 14:43,51.52721,0.14559,Sports
+1/18/09 6:09,Product1,1200,Mastercard,Ignacio,Engleside                   ,524,1/31/09 15:33,38.80472,-77.04722,car insurace
+1/8/09 0:04,Product1,1200,Visa,ZOE,New Plymouth City,525,1/31/09 17:47,-39.0666667,174.0833333,home insurance
+1/24/09 7:14,Product1,1200,Mastercard,nihan,Roanoke                     ,526,1/31/09 19:18,37.20556,-80.03778,Cinema
+1/24/09 11:05,Product1,1200,Visa,alan,Norcross                    ,527,1/31/09 19:31,33.94111,-84.21361,Shopping Mall
+1/6/09 15:12,Product1,1200,Amex,lydia,Sandy Plains                ,528,1/31/09 20:48,34.02306,-84.36167,Restaurant
+1/24/09 17:06,Product1,1200,Visa,Tracey,Saint Catharines,529,1/31/09 21:10,43.1666667,-79.2333333,Cinema
+1/3/09 9:58,Product1,1200,Visa,Anja,Gainesville                 ,530,1/31/09 22:19,38.79556,-77.61417,Sports
+1/9/09 16:35,Product1,1200,Diners,Jennifer,Nordstrand,531,2/1/09 4:18,59.8608333,10.7905556,car insurace
+1/12/09 14:50,Product1,1200,Visa,Holly,Arlington                   ,532,2/1/09 7:36,42.41528,-71.15694,home insurance
+1/7/09 13:49,Product1,1200,Diners,megan,West Hills                  ,533,2/1/09 8:20,34.20111,-118.59722,Cinema
+1/9/09 19:41,Product1,1200,Mastercard,Tarah,San Jose                    ,534,2/1/09 9:18,37.33944,-121.89389,Shopping Mall
+1/26/09 4:53,Product1,1200,Visa,Gerardo,London,535,2/1/09 9:48,51.52721,0.14559,Restaurant
+1/23/09 21:41,Product1,1200,Visa,Joanne,Oak Park                    ,536,2/1/09 9:51,42.45944,-83.18278,Cinema
+1/6/09 16:07,Product1,1200,Visa,Margaret,Terrell Hills               ,537,2/1/09 10:06,29.42389,-98.49333,Sports
+1/10/09 7:55,Product1,1200,Visa,Laura,Jumeira,538,2/1/09 10:18,25.2097222,55.2477778,car insurace
+1/28/09 20:44,Product1,1200,Visa,Whitney,Falmouth                    ,539,2/1/09 11:33,38.32389,-77.46861,home insurance
+1/9/09 3:38,Product1,1200,Visa,Ravinder,Lurgan,540,2/1/09 11:53,54.4666667,-6.3333333,Cinema
+1/19/09 8:52,Product1,1200,Visa,Pam,Richmond                    ,541,2/1/09 11:53,29.58194,-95.76056,Shopping Mall
+1/15/09 7:26,Product1,1200,Mastercard,Celina,Den Haag,542,2/1/09 13:17,52.0833333,4.3,Restaurant
+1/30/09 19:12,Product1,1200,Diners,Heather,Ooltewah                    ,543,2/1/09 13:51,35.075,-85.06222,Cinema
+1/5/09 12:41,Product1,1200,Mastercard,Kathryn,Pacific Beach               ,544,2/1/09 14:28,32.79778,-117.23944,Sports
+1/28/09 20:59,Product1,1200,Visa,Michele ,Austin                      ,545,2/1/09 15:00,30.26694,-97.74278,car insurace
+1/10/09 21:36,Product1,1200,Visa,Craig,Seattle                     ,546,2/1/09 15:27,47.60639,-122.33083,home insurance
+1/25/09 19:59,Product1,1200,Visa,Kim,Seattle                     ,547,2/1/09 16:04,47.60639,-122.33083,Cinema
+1/7/09 8:03,Product1,1200,Amex,maria,Ottawa,548,2/1/09 18:52,45.4166667,-75.7,Shopping Mall
+1/21/09 9:07,Product1,1200,Visa,Elaine,Vienna                      ,549,2/1/09 21:07,38.90111,-77.26556,Restaurant
+1/23/09 14:43,Product1,1200,Visa,Madison,Torbay,550,2/1/09 21:31,-36.7,174.75,Cinema
+1/5/09 13:07,Product1,1200,Visa,Amanda,Shenfield,551,2/1/09 22:27,51.6166667,0.3166667,Sports
+1/6/09 3:39,Product1,1200,Visa,Krista,Bergen,552,2/2/09 0:08,60.3911111,5.3247222,car insurace
+1/15/09 15:26,Product1,1200,Visa,Sarah,Bolton,553,2/2/09 0:53,53.5833333,-2.4333333,home insurance
+1/23/09 4:47,Product1,1200,Mastercard,Sarah,Sandymount,554,2/2/09 2:12,53.335,-6.2113889,Cinema
+1/12/09 10:05,Product2,3600,Amex,Pamela,Bellinzona,555,2/2/09 5:16,46.2,9.0166667,Shopping Mall
+1/30/09 5:13,Product1,1200,Visa,Christine,Antwerpen,556,2/2/09 5:45,51.2166667,4.4166667,Restaurant
+1/14/09 10:32,Product3,7500,Mastercard,Diana,Campinas,557,2/2/09 5:54,-22.9,-47.0833333,Cinema
+1/12/09 8:13,Product1,1200,Amex,mary,Nacka,558,2/2/09 6:01,59.3,18.1666667,Sports
+1/27/09 8:11,Product1,1200,Visa,Helena,Fremont                     ,559,2/2/09 6:08,37.54833,-121.9875,car insurace
+1/30/09 17:33,Product1,1200,Visa,nina,Warwick,560,2/2/09 6:13,-28.2333333,152.0166667,home insurance
+1/15/09 9:52,Product1,1200,Amex,Mark,Holmdel                     ,561,2/2/09 7:00,40.345,-74.18444,Cinema
+1/13/09 11:54,Product1,1200,Visa,alice and rudolf,Baltimore                   ,562,2/2/09 8:01,39.2725,-76.53167,Shopping Mall
+1/21/09 11:00,Product1,1200,Visa,Costanza,Saggart,563,2/2/09 8:29,53.2802778,-6.4444444,Restaurant
+1/16/09 11:49,Product1,1200,Mastercard,Yoko,Andover                     ,564,2/2/09 8:53,42.65833,-71.1375,Cinema
+1/1/09 9:35,Product1,1200,Mastercard,Barbara,La Crescenta                ,565,2/2/09 10:27,34.22417,-118.23917,Sports
+1/13/09 5:58,Product1,1200,Mastercard,Kit,Suwanee                     ,566,2/2/09 13:13,34.05139,-84.07139,car insurace
+1/6/09 16:08,Product2,3600,Visa,cristina,Seattle                     ,567,2/2/09 14:17,47.60639,-122.33083,home insurance
+1/5/09 10:25,Product1,1200,Amex,linda,Arlington                   ,568,2/2/09 16:13,38.89028,-77.08444,Cinema
+1/4/09 21:08,Product1,1200,Mastercard,Christyna,Calgary,569,2/2/09 18:50,51.0833333,-114.0833333,Shopping Mall
+1/12/09 20:43,Product1,1200,Visa,Alicja ,Kenmore                     ,570,2/2/09 20:26,47.7575,-122.24278,Restaurant
+1/17/09 3:22,Product1,1200,Visa,Rachel,Fresno                      ,571,2/2/09 20:35,36.74778,-119.77139,Cinema
+1/18/09 11:17,Product1,1200,Amex,Rachel,Atascadero                  ,572,2/2/09 22:49,35.48944,-120.66972,Sports
+1/27/09 9:01,Product1,1200,Visa,Jan,Barcelona,573,2/3/09 0:59,41.3833333,2.1833333,car insurace
+1/8/09 8:11,Product1,1200,Diners,Karin,High Wycombe,574,2/3/09 1:54,51.6333333,-0.7666667,home insurance
+1/26/09 23:28,Product2,3600,Amex,ron ,Tsaritsyno,575,2/3/09 2:10,55.6283333,37.6608333,Cinema
+1/10/09 21:35,Product1,1200,Mastercard,Sharon,Ajax,576,2/3/09 3:42,43.85,-79.0166667,Shopping Mall
+1/11/09 6:01,Product1,1200,Mastercard,Anna,New York                    ,577,2/3/09 4:25,40.71417,-74.00639,Restaurant
+1/19/09 14:53,Product1,1200,Mastercard,Laura,Fairfield                   ,578,2/3/09 5:40,41.00861,-91.9625,Cinema
+1/22/09 7:14,Product1,1200,Visa,Yana,North Bay,579,2/3/09 6:36,46.3,-79.45,Sports
+1/15/09 8:12,Product1,1200,Visa,Katherine,Marietta                    ,580,2/3/09 7:44,33.9525,-84.55,car insurace
+1/7/09 6:33,Product1,1200,Diners,Therese,Clontarf,581,2/3/09 7:51,53.3591667,-6.2161111,home insurance
+1/12/09 8:05,Product1,1200,Amex,Francoise ,Danville                    ,582,2/3/09 8:01,40.96333,-76.61306,Cinema
+1/28/09 13:03,Product2,3600,Amex,Elizabeth,Okotoks,583,2/3/09 9:13,50.7166667,-113.9666667,Shopping Mall
+1/25/09 8:54,Product1,1200,Amex,Corinne,Anthem                      ,584,2/3/09 9:50,33.86722,-112.14611,Restaurant
+1/5/09 10:08,Product1,1200,Visa,Ec,Clonmel,585,2/3/09 10:21,52.355,-7.7038889,Cinema
+1/5/09 19:29,Product1,1200,Visa,Carmen,Arlington                   ,586,2/3/09 10:23,38.89028,-77.08444,Sports
+1/7/09 19:06,Product2,3600,Amex,Brittany,Orlando                     ,587,2/3/09 11:32,28.53806,-81.37944,car insurace
+1/23/09 11:33,Product1,1200,Mastercard,Sandrine,Walnut Creek                ,588,2/3/09 11:49,37.90639,-122.06389,home insurance
+1/3/09 21:11,Product1,1200,Mastercard,asuncion ,Centennial                  ,589,2/3/09 11:50,39.57917,-104.87639,Cinema
+1/11/09 17:28,Product1,1200,Visa,Sophie,Newtown                     ,590,2/3/09 12:21,41.41389,-73.30389,Shopping Mall
+1/21/09 20:18,Product1,1200,Amex,Henrietta,Vancouver,591,2/3/09 12:22,49.25,-123.1333333,Restaurant
+1/24/09 10:23,Product1,1200,Visa,DD,York,592,2/3/09 12:57,53.9666667,-1.0833333,Cinema
+1/7/09 14:55,Product1,1200,Visa,Jennifer,Drogheda,593,2/3/09 13:36,53.7188889,-6.3477778,Sports
+1/29/09 10:38,Product1,1200,Visa,samuel,Saddle Brook                ,594,2/3/09 14:39,40.89889,-74.09306,car insurace
+1/8/09 14:04,Product1,1200,Amex,Angelina  Patrick,San Diego                   ,595,2/3/09 14:57,32.71528,-117.15639,home insurance
+1/31/09 21:50,Product1,1200,Visa,Sven,Issaquah                    ,596,2/3/09 16:30,47.53028,-122.03139,Cinema
+1/1/09 16:00,Product1,1200,Visa,Toni,Bolton,597,2/3/09 16:45,53.5833333,-2.4333333,Shopping Mall
+1/30/09 13:13,Product1,1200,Visa,Patrick,Lexington                   ,598,2/3/09 17:14,42.44722,-71.225,Restaurant
+1/27/09 16:50,Product1,1200,Visa,jason,Altadena                    ,599,2/3/09 18:09,34.18972,-118.13028,Cinema
+1/30/09 7:42,Product1,250,Visa,Tabatha,Altadena                    ,600,2/3/09 18:09,34.18972,-118.13028,Sports
+1/17/09 15:48,Product2,3600,Visa,Aline,Davis                       ,601,2/3/09 19:14,38.545,-121.73944,car insurace
+1/12/09 11:40,Product2,3600,Visa,Debra,Toronto,602,2/3/09 19:42,43.6666667,-79.4166667,home insurance
+1/30/09 20:27,Product1,1200,Mastercard,Natasha,Pasadena                    ,603,2/3/09 23:39,34.14778,-118.14361,Cinema
+1/27/09 18:35,Product1,1200,Mastercard,Melinda,Buffalo Grove               ,604,2/3/09 23:42,41.98111,-89.595,Shopping Mall
+1/16/09 12:47,Product1,1200,Visa,Luc1nda,London,605,2/4/09 2:13,51.52721,0.14559,Restaurant
+1/2/09 2:50,Product1,1200,Visa,Kim,Newcastle,606,2/4/09 2:19,53.0683333,-6.0658333,Cinema
+1/21/09 5:39,Product1,1200,Amex,Britlyn ,Norwalk                     ,607,2/4/09 4:31,41.1175,-73.40833,Sports
+1/28/09 1:28,Product1,1200,Diners,Adam,Besancon,608,2/4/09 5:39,47.25,6.0333333,car insurace
+1/8/09 13:33,Product1,1200,Visa,Mimi,Monte-Carlo,609,2/4/09 6:16,43.7333333,7.4166667,home insurance
+1/22/09 12:09,Product1,1200,Visa,Liann,Monaco,610,2/4/09 6:28,43.7333333,7.4166667,Cinema
+1/20/09 8:23,Product1,1200,Mastercard,Sarah,Floyds Knobs                ,611,2/4/09 8:16,38.32444,-85.87361,Shopping Mall
+1/2/09 7:47,Product1,1200,Diners,Naseer,London,612,2/4/09 8:50,51.5,-0.1166667,Restaurant
+1/11/09 4:55,Product1,1200,Amex,Caroline,Marietta                    ,613,2/4/09 9:22,33.9525,-84.55,Cinema
+1/23/09 7:47,Product1,1800,Amex,Karena,Marietta                    ,614,2/4/09 9:22,33.9525,-84.55,Sports
+1/21/09 23:19,Product1,1200,Amex,janet,Hon                         ,615,2/4/09 11:11,21.30694,-157.85833,car insurace
+1/11/09 4:29,Product3,7500,Visa,Hans,Knoxville                   ,616,2/4/09 12:17,35.96056,-83.92083,home insurance
+1/11/09 4:39,Product1,1200,Visa,Sandra  Thierry  Zoe,Knoxville                   ,617,2/4/09 12:17,35.96056,-83.92083,Cinema
+1/10/09 8:13,Product1,1200,Mastercard,Eleanor,Edinburgh,618,2/4/09 13:08,55.95,-3.2,Shopping Mall
+1/22/09 12:55,Product1,1200,Visa,Anna,Paris,619,2/4/09 13:12,48.8666667,2.3333333,Restaurant
+1/17/09 15:00,Product1,1200,Visa,Cara ,Humble                      ,620,2/4/09 13:29,29.99861,-95.26194,Cinema
+1/4/09 14:06,Product1,1200,Visa,carolien,Mashpee                     ,621,2/4/09 13:45,41.64833,-70.48167,Sports
+1/30/09 17:09,Product1,1200,Mastercard,Ana,Hong Kong,622,2/4/09 16:26,22.2833333,114.15,car insurace
+1/20/09 5:01,Product1,1200,Visa,Patrick,Birmingham                  ,623,2/4/09 16:45,42.54667,-83.21139,home insurance
+1/26/09 14:37,Product1,1200,Visa,Heidi,St Augustine                ,624,2/4/09 16:55,29.89444,-81.31472,Cinema
+1/29/09 13:27,Product1,1200,Visa,Tom,Salt Lake City              ,625,2/4/09 20:07,40.76083,-111.89028,Shopping Mall
+1/12/09 10:33,Product1,1200,Amex,Justine,Seattle                     ,626,2/4/09 20:57,47.60639,-122.33083,Restaurant
+1/5/09 8:28,Product1,1200,Visa,isabel,Ruti,627,2/4/09 22:59,47.25,8.85,Cinema
+1/25/09 16:11,Product3,7500,Visa,scott,Rogers                      ,628,2/5/09 0:20,36.33194,-94.11833,Sports
+1/25/09 20:44,Product1,1200,Visa,Fatima,Rogers                      ,629,2/5/09 0:20,36.33194,-94.11833,car insurace
+1/26/09 11:36,Product1,1200,Visa,Judy,Dun Laoghaire,630,2/5/09 2:38,53.2925,-6.1286111,home insurance
+1/27/09 2:32,Product1,1200,Visa,Glenn,Perth,631,2/5/09 3:15,56.4,-3.4333333,Cinema
+1/18/09 13:36,Product1,1200,Amex,Family in,London,632,2/5/09 3:17,51.51334,-0.08895,Shopping Mall
+1/7/09 5:53,Product1,1200,Visa,Lauren,Gries,633,2/5/09 3:41,49.4166667,7.4,Restaurant
+1/25/09 1:53,Product3,7500,Visa,Michael,Pietermaritzburg,634,2/5/09 4:37,-29.6166667,30.3833333,Cinema
+1/18/09 11:42,Product1,1200,Visa,Jodi,Sutton Valence,635,2/5/09 6:21,51.2,0.5833333,Sports
+1/13/09 1:46,Product1,1200,Mastercard,simone,Lyngby,636,2/5/09 8:52,55.7666667,12.5166667,car insurace
+1/2/09 15:57,Product1,1200,Diners,Sonja,Alpine                      ,637,2/5/09 10:18,40.95583,-73.93167,home insurance
+1/25/09 8:50,Product1,1200,Mastercard,Shane,Zurich,638,2/5/09 11:07,47.3666667,8.55,Cinema
+1/14/09 8:16,Product2,3600,Amex,Ruth,Saskatoon,639,2/5/09 11:24,52.1333333,-106.6666667,Shopping Mall
+1/27/09 11:21,Product1,1200,Mastercard,Cleo,Pacific Palisades           ,640,2/5/09 12:38,34.04806,-118.52556,Restaurant
+1/8/09 10:13,Product1,1200,Diners,Benoit,Fort Saint James,641,2/5/09 14:03,54.4333333,-124.25,Cinema
+1/5/09 7:47,Product1,1200,Amex,Claire,Versoix,642,2/5/09 15:15,46.2833333,6.1666667,Sports
+1/22/09 9:00,Product1,1200,Visa,Claire,Trumansburg                 ,643,2/5/09 16:33,42.54222,-76.66639,car insurace
+1/25/09 12:59,Product1,1200,Visa,Lindsey,Kennett Square              ,644,2/5/09 18:40,39.84667,-75.71194,home insurance
+1/10/09 19:28,Product2,3600,Visa,Nicola,San Jose                    ,645,2/5/09 21:10,37.33944,-121.89389,Cinema
+1/8/09 19:29,Product2,3600,Mastercard,PATRICK,Ban Khlong Sip,646,2/5/09 21:22,13.9166667,100.8166667,Shopping Mall
+1/8/09 12:04,Product1,1200,Visa,jennifer,Morro Bay                   ,647,2/5/09 22:11,35.36583,-120.84889,Restaurant
+1/4/09 16:59,Product1,1200,Visa,Amy,Parramatta,648,2/5/09 22:44,-33.8166667,151,Cinema
+1/30/09 11:56,Product1,1200,Mastercard,Whitney,Dumbleton,649,2/6/09 0:04,52.0166667,-1.9666667,Sports
+1/6/09 5:10,Product1,1200,Visa,Astrid,Altlengbach,650,2/6/09 0:37,48.15,15.9166667,car insurace
+1/14/09 3:39,Product1,1200,Visa,jo,Ballincollig,651,2/6/09 2:36,51.8833333,-8.5833333,home insurance
+1/14/09 3:47,Product1,1200,Visa,Michelle,Ballincollig,652,2/6/09 2:36,51.8833333,-8.5833333,Cinema
+1/19/09 3:19,Product1,1200,Mastercard,TG,Zagore,653,2/6/09 4:19,42.35,25.6666667,Shopping Mall
+1/7/09 1:42,Product1,1200,Mastercard,Emily,Vecmilgravis,654,2/6/09 4:20,57.0333333,24.1,Restaurant
+1/7/09 13:01,Product2,3600,Visa,Niki,Trelex,655,2/6/09 5:02,46.4166667,6.2,Cinema
+1/27/09 2:35,Product1,1200,Visa,Sarah,Ornex,656,2/6/09 5:09,46.2833333,6.1,Sports
+1/3/09 14:14,Product1,1200,Visa,sherry,Las Vegas                   ,657,2/6/09 5:29,36.175,-115.13639,car insurace
+1/22/09 12:37,Product2,3600,Amex,Laura,San Anselmo                 ,658,2/6/09 6:38,37.97472,-122.56056,home insurance
+1/29/09 6:49,Product1,1200,Mastercard,Carmela,Hannover,659,2/6/09 6:52,52.3666667,9.7166667,Cinema
+1/6/09 9:45,Product1,1200,Diners,Matt,N Woodmere                  ,660,2/6/09 7:33,40.66417,-73.70889,Shopping Mall
+1/12/09 11:16,Product1,1200,Visa,Karen,Madrid,661,2/6/09 10:42,40.4,-3.6833333,Restaurant
+1/13/09 13:49,Product1,1200,Visa,Joanne,Castlebar,662,2/6/09 12:35,53.85,-9.3,Cinema
+1/12/09 7:23,Product1,1200,Visa,Stephanie,Fairfax                     ,663,2/6/09 16:13,37.98722,-122.58778,Sports
+1/30/09 4:48,Product1,1200,Visa,Hurst,Chandler                    ,664,2/6/09 17:21,33.30611,-111.84056,car insurace
+1/22/09 16:29,Product1,1200,Visa,Liza,Dammeron Valley             ,665,2/6/09 18:14,37.1306,-113.6492,home insurance
+1/27/09 6:26,Product1,1200,Mastercard,Michele,Buffalo                     ,666,2/6/09 18:24,42.88639,-78.87861,Cinema
+1/15/09 10:16,Product3,7500,Visa,Karin,Olive Branch                ,667,2/6/09 18:48,34.96167,-89.82944,Shopping Mall
+1/19/09 18:54,Product1,1200,Amex,cath,Warwick                     ,668,2/6/09 19:27,41.25639,-74.36028,Restaurant
+1/2/09 22:44,Product2,3600,Visa,eva,Gisborne,669,2/6/09 20:03,-37.4833333,144.5833333,Cinema
+1/1/09 18:32,Product1,1200,Amex,Andrea ,San Mateo                   ,670,2/6/09 21:59,37.56306,-122.32444,Sports
+1/14/09 1:28,Product1,1200,Mastercard,Sabine,Milton Keynes,671,2/7/09 0:26,52.0333333,-0.7,car insurace
+1/20/09 8:08,Product1,1200,Mastercard,Aideen and Jonathan,Kecskemet,672,2/7/09 1:12,46.9,19.7833333,home insurance
+1/29/09 2:48,Product1,1200,Visa,George,Nakskov,673,2/7/09 2:09,54.8333333,11.15,Cinema
+1/24/09 18:02,Product1,1200,Visa,Helen,Aloma                       ,674,2/7/09 6:03,28.60056,-81.30667,Shopping Mall
+1/7/09 8:26,Product1,1200,Diners,C,Chandler                    ,675,2/7/09 6:05,33.30611,-111.84056,Restaurant
+1/24/09 3:36,Product1,1200,Visa,chris,Kjobenhavn,676,2/7/09 6:52,55.6666667,12.5833333,Cinema
+1/5/09 15:23,Product1,1200,Visa,maggie,Stockton,677,2/7/09 11:08,52.25,-2.7,Sports
+1/25/09 16:17,Product1,1200,Amex,Mareike,Cumming                     ,678,2/7/09 11:28,34.20722,-84.14028,car insurace
+1/15/09 10:37,Product1,1200,Visa,lamia,Little Compton              ,679,2/7/09 12:00,41.51,-71.17167,home insurance
+1/20/09 15:28,Product1,1200,Visa,Madhu,Centennial                  ,680,2/7/09 15:18,39.57917,-104.87639,Cinema
+1/28/09 18:00,Product1,13000,Visa,sandhya,Centennial                  ,681,2/7/09 15:18,39.57917,-104.87639,Shopping Mall
+1/29/09 5:06,Product1,1200,Amex,Kimberly,Herndon                     ,682,2/7/09 15:23,38.96944,-77.38639,Restaurant
+1/6/09 18:53,Product1,1200,Visa,Tania,Vista                       ,683,2/7/09 15:48,33.2,-117.24167,Cinema
+1/21/09 6:55,Product1,1200,Visa,andrea,Oostburg                    ,684,2/7/09 16:48,43.62278,-87.79444,Sports
+1/26/09 20:18,Product1,1200,Mastercard,John,Griffith,685,2/7/09 18:04,-34.2833333,146.0333333,car insurace
+1/25/09 17:58,Product2,3600,Visa,carol,Ann Arbor                   ,686,2/7/09 18:51,42.27083,-83.72639,home insurance
+1/9/09 14:37,Product1,1200,Visa,Nona,South Jordan                ,687,2/7/09 19:11,40.56222,-111.92889,Cinema
+1/25/09 2:46,Product2,3600,Visa,Family,Dubai,688,2/8/09 2:06,25.2522222,55.28,Shopping Mall
+1/17/09 20:46,Product2,3600,Visa,Michelle,Dubai,689,2/8/09 2:12,25.2522222,55.28,Restaurant
+1/24/09 7:18,Product2,3600,Visa,Kathryn,Kirriemuir,690,2/8/09 2:52,56.6666667,-3,Cinema
+1/11/09 7:09,Product1,1200,Visa,Oswald,Tramore,691,2/8/09 3:02,52.1588889,-7.1463889,Sports
+1/8/09 4:15,Product1,1200,Visa,Elyssa,Gdansk,692,2/8/09 3:50,54.35,18.6666667,car insurace
+1/22/09 10:47,Product1,1200,Visa,michelle,Arklow,693,2/8/09 5:07,52.7930556,-6.1413889,home insurance
+1/26/09 20:47,Product1,1200,Mastercard,Alicia,Lincoln                     ,694,2/8/09 7:29,40.8,-96.66667,Cinema
+1/12/09 12:22,Product1,1200,Mastercard,JP,Tierp,695,2/8/09 11:15,60.3333333,17.5,Shopping Mall
+1/26/09 1:44,Product2,3600,Visa,Geraldine,Brussels,696,2/8/09 14:39,50.8333333,4.3333333,Restaurant
+1/18/09 12:57,Product1,1200,Mastercard,sandra,Burr Oak                    ,697,2/8/09 15:30,43.45889,-91.86528,Cinema
+1/24/09 21:26,Product1,1200,Visa,Olivia,Wheaton                     ,698,2/8/09 16:00,41.86611,-88.10694,Sports
+1/26/09 12:26,Product2,3600,Mastercard,Tom,Killeen                     ,699,2/8/09 17:33,31.11694,-97.7275,car insurace
+1/5/09 7:37,Product1,1200,Visa,Annette ,Manhattan                   ,700,2/8/09 18:42,40.71417,-74.00639,home insurance
+1/14/09 12:33,Product1,1200,Visa,SUSAN,Oxford,701,2/8/09 23:00,51.75,-1.25,Cinema
+1/14/09 0:15,Product2,3600,Visa,Michael,Paris,702,2/9/09 1:30,48.8666667,2.3333333,Shopping Mall
+1/1/09 12:42,Product1,1200,Visa,ashton,Exeter,703,2/9/09 2:52,50.7,-3.5333333,Restaurant
+1/6/09 6:07,Product1,1200,Visa,Scott,Rungsted,704,2/9/09 4:20,55.8841667,12.5419444,Cinema
+1/15/09 5:11,Product2,3600,Visa,Pam,London,705,2/9/09 4:42,51.52721,0.14559,Sports
+1/17/09 4:03,Product1,1200,Visa,Lisa ,Borja,706,2/9/09 6:09,9.9136111,124.0927778,car insurace
+1/19/09 10:13,Product2,3600,Mastercard,Pavel,London,707,2/9/09 6:57,51.51334,-0.08895,home insurance
+1/18/09 9:42,Product1,1200,Visa,Richard,Jamestown                   ,708,2/9/09 8:30,41.49694,-71.36778,Cinema
+1/9/09 11:14,Product1,1200,Visa,Jasinta Jeanne,Owings Mills                ,709,2/9/09 9:17,39.41944,-76.78056,Shopping Mall
+1/10/09 13:42,Product1,1200,Visa,Rachel,Hamilton,710,2/9/09 9:54,43.25,-79.8333333,Restaurant
+1/7/09 7:28,Product1,1200,Amex,Cherish ,Anchorage                   ,711,2/9/09 10:50,61.21806,-149.90028,Cinema
+1/18/09 6:46,Product1,1200,Visa,Shona ,Mornington,712,2/9/09 11:55,53.7233333,-6.2825,Sports
+1/30/09 12:18,Product1,1200,Mastercard,Abikay,Fullerton                   ,713,2/9/09 12:53,33.87028,-117.92444,car insurace
+1/6/09 5:42,Product1,1200,Amex,Abikay,Atlanta                     ,714,2/9/09 13:50,33.74889,-84.38806,home insurance
+1/2/09 10:58,Product2,3600,Visa,Kendra,Toronto,715,2/9/09 13:56,43.6666667,-79.4166667,Cinema
+1/8/09 3:29,Product1,1200,Visa,amanda,Liverpool,716,2/9/09 14:06,53.4166667,-3,Shopping Mall
+1/12/09 13:23,Product2,3600,Amex,Leila,Ponte San Nicolo,717,2/9/09 14:09,45.3666667,11.6166667,Restaurant
+1/19/09 9:34,Product1,1200,Amex,amanda,Las Vegas                   ,718,2/9/09 16:44,36.175,-115.13639,Cinema
+1/9/09 7:49,Product1,1200,Visa,Stacy,Rochester Hills             ,719,2/9/09 17:41,42.68056,-83.13389,Sports
+1/15/09 5:27,Product2,3600,Visa,Derrick,North Bay,720,2/9/09 18:22,46.3,-79.45,car insurace
+1/8/09 23:40,Product1,1200,Visa,Jacob,Lindfield,721,2/9/09 18:31,-33.7833333,151.1666667,home insurance
+1/27/09 11:02,Product1,1200,Mastercard,DOREEN,Madrid,722,2/9/09 18:42,40.4,-3.6833333,Cinema
+1/14/09 13:23,Product1,1200,Diners,eugenia,Wisconsin Rapids            ,723,2/9/09 18:44,44.38361,-89.81722,Shopping Mall
+1/7/09 20:01,Product1,1200,Visa,Karen,Austin                      ,724,2/9/09 19:56,30.26694,-97.74278,Restaurant
+1/20/09 12:32,Product1,1200,Visa,Bea,Chicago                     ,725,2/9/09 20:42,41.85,-87.65,Cinema
+1/6/09 14:35,Product1,1200,Diners,Hilde Karin,Las Vegas                   ,726,2/9/09 22:59,36.175,-115.13639,Sports
+1/4/09 6:51,Product1,1200,Visa,Rima,Mullingar,727,2/10/09 0:59,53.5333333,-7.35,car insurace
+1/24/09 18:30,Product1,1200,Visa,Ruangrote,Melbourne,728,2/10/09 2:12,-37.8166667,144.9666667,home insurance
+1/25/09 5:57,Product1,1200,Amex,pamela,Ayacucho,729,2/10/09 6:38,-37.15,-58.4833333,Cinema
+1/5/09 10:02,Product2,3600,Visa,Emillie,Eagan                       ,730,2/10/09 7:29,44.80417,-93.16667,Shopping Mall
+1/13/09 9:14,Product1,1200,Visa,sangeeta,Vossevangen,731,2/10/09 9:04,60.6333333,6.4333333,Restaurant
+1/22/09 7:35,Product1,1200,Visa,Anja,Ferney-Voltaire,732,2/10/09 9:18,46.25,6.1166667,Cinema
+1/2/09 11:06,Product1,1200,Mastercard,Andrew,Sevilla,733,2/10/09 10:04,37.3772222,-5.9869444,Sports
+1/11/09 9:50,Product1,1200,Visa,Bato,Munchengosserstadt,734,2/10/09 10:28,51.05,11.65,car insurace
+1/21/09 20:44,Product1,1200,Mastercard,Ailsa ,Lindenhurst                 ,735,2/10/09 10:51,40.68667,-73.37389,home insurance
+1/5/09 9:09,Product1,1200,Visa,Sophie,Bloomfield                  ,736,2/10/09 10:58,42.53778,-83.23306,Cinema
+1/5/09 12:41,Product1,1200,Visa,Katrin,Calgary,737,2/10/09 11:45,51.0833333,-114.0833333,Shopping Mall
+1/28/09 12:54,Product2,3600,Mastercard,Kelly ,Vancouver,738,2/10/09 12:09,49.25,-123.1333333,Restaurant
+1/21/09 4:46,Product1,1200,Visa,Tomasz,Klampenborg,739,2/10/09 12:22,55.7666667,12.6,Cinema
+1/7/09 13:28,Product1,1200,Visa,Elizabeth,Calne,740,2/10/09 12:39,51.4333333,-2,Sports
+1/27/09 11:18,Product2,3600,Amex,Michael,Los Angeles                 ,741,2/10/09 13:09,34.05222,-118.24278,car insurace
+1/7/09 12:39,Product2,3600,Visa,Natasha,Milano,742,2/10/09 13:19,45.4666667,9.2,home insurance
+1/24/09 13:54,Product2,3600,Mastercard,Meredith,Kloten,743,2/10/09 13:47,47.45,8.5833333,Cinema
+1/30/09 6:48,Product1,1200,Mastercard,Nicole,Fayetteville                ,744,2/10/09 14:41,35.0525,-78.87861,Shopping Mall
+1/22/09 18:07,Product1,1200,Visa,Ryan,Simpsonville                ,745,2/10/09 15:30,34.73694,-82.25444,Restaurant
+1/29/09 15:03,Product1,1200,Visa,Mary ,Auckland,746,2/10/09 16:31,-36.8666667,174.7666667,Cinema
+1/2/09 14:14,Product1,1200,Diners,Aaron,Reading,747,2/10/09 16:38,51.4333333,-1,Sports
+1/19/09 11:05,Product1,1200,Visa,Bertrand,North Caldwell              ,748,2/10/09 18:16,40.83972,-74.27694,car insurace
+1/28/09 16:17,Product1,1200,Mastercard,Zoe,Coventry,749,2/10/09 19:55,52.4166667,-1.55,home insurance
+1/8/09 12:46,Product1,1200,Mastercard,Trine Marie,Orillia,750,2/10/09 22:11,44.6,-79.4166667,Cinema
+1/29/09 16:07,Product1,1200,Diners,Kim,Paris,751,2/10/09 22:24,48.8666667,2.3333333,Shopping Mall
+1/29/09 13:41,Product1,1200,Visa,John ,San Jose                    ,752,2/10/09 23:58,37.33944,-121.89389,Restaurant
+1/8/09 6:29,Product1,1200,Visa,Rich,Ingelheim-Mitte,753,2/10/09 23:59,49.9833333,8.0666667,Cinema
+1/4/09 12:53,Product1,1200,Diners,Kayla,Leamington Spa,754,2/11/09 0:04,52.3,-1.5333333,Sports
+1/14/09 12:55,Product1,1200,Visa,Richard and Comfort,Regensdorf,755,2/11/09 1:58,47.4333333,8.4666667,car insurace
+1/14/09 6:35,Product1,1200,Visa,Eric,Melbourne,756,2/11/09 2:05,-37.8166667,144.9666667,home insurance
+1/27/09 13:08,Product1,1200,Mastercard,Melissa,Geneve,757,2/11/09 2:19,46.2,6.1666667,Cinema
+1/31/09 23:09,Product1,1200,Diners,Dawn,Vaucluse,758,2/11/09 3:09,-33.8666667,151.2833333,Shopping Mall
+1/21/09 14:34,Product1,1200,Mastercard,Tamara,Klosterneuburg,759,2/11/09 3:19,48.3,16.3166667,Restaurant
+1/16/09 8:28,Product1,1200,Visa,Ashley,Rancho Cordova              ,760,2/11/09 8:34,38.58917,-121.30167,Cinema
+1/11/09 9:55,Product1,1200,Visa,familly ,Creemore,761,2/11/09 8:45,44.3166667,-80.1,Sports
+1/8/09 2:46,Product1,1200,Mastercard,Ken,Sidcup,762,2/11/09 11:00,51.4166667,0.1166667,life insurance
+1/26/09 7:11,Product1,1200,Visa,Tori,Minneapolis                 ,763,2/11/09 11:35,44.98,-93.26361,rent
+1/31/09 5:39,Product2,3600,Mastercard,Hanne,Phoenix                     ,764,2/11/09 11:45,39.51639,-76.61639,leasing
+1/9/09 8:35,Product1,1200,Amex,Precious,Edmonton,765,2/11/09 14:26,53.55,-113.5,leasing
+1/24/09 3:25,Product1,1200,Visa,Michelle,Lyndoch,766,2/11/09 15:05,-34.6166667,138.8833333,leasing
+1/26/09 8:45,Product1,1200,Visa,Paula,Larchmont                   ,767,2/11/09 17:12,40.92778,-73.75222,life insurance
+1/23/09 10:45,Product1,1200,Visa,Stephanie,Saint Charles               ,768,2/11/09 17:57,41.91417,-88.30861,rent
+1/28/09 8:50,Product1,1200,Visa,kemp,Brentwood                   ,769,2/11/09 18:41,36.03306,-86.78278,leasing
+1/15/09 19:10,Product2,3600,Diners,Therese,Pensacola                   ,770,2/11/09 18:53,30.42111,-87.21694,leasing
+1/9/09 20:25,Product1,1200,Diners,Mona,Kelowna,771,2/11/09 20:19,49.9,-119.4833333,leasing
+1/15/09 21:53,Product1,1200,Visa,Caroline,Toronto,772,2/11/09 21:01,43.6666667,-79.4166667,life insurance
+1/12/09 0:17,Product1,1200,Mastercard,Andrea,Brondby Strand,773,2/11/09 22:23,55.6166667,12.35,rent
+1/25/09 10:32,Product1,1200,Mastercard,Pilar,Florence,774,2/12/09 2:22,43.7666667,11.25,leasing
+1/12/09 23:35,Product1,1200,Visa,Lisa,Perth,775,2/12/09 3:46,-31.9333333,115.8333333,leasing
+1/11/09 6:09,Product1,1200,Amex,A,Saint Petersburg            ,776,2/12/09 4:41,27.77056,-82.67944,leasing
+1/3/09 13:35,Product1,1200,Mastercard,Yvette,Aubonne,777,2/12/09 5:17,46.4833333,6.4,life insurance
+1/18/09 11:03,Product2,3600,Amex,Katie,Gava,778,2/12/09 7:35,41.3,2.0166667,rent
+1/5/09 18:55,Product1,1200,Visa,Nicole,Mc Lean                     ,779,2/12/09 10:25,38.94222,-77.1825,leasing
+1/2/09 18:54,Product1,1200,Mastercard,Kelly,Hendersonville              ,780,2/12/09 11:31,36.30472,-86.62,leasing
+1/13/09 14:44,Product2,3600,Visa,george,Zurich,781,2/12/09 12:08,47.3666667,8.55,leasing
+1/4/09 4:05,Product1,1200,Mastercard,Samantha,Watford,782,2/12/09 12:29,51.6666667,-0.4,life insurance
+1/27/09 12:47,Product1,1200,Visa,Caterina,Amsterdam,783,2/12/09 12:59,52.35,4.9166667,rent
+1/22/09 6:51,Product1,1200,Visa,Kate,Rochester Hills             ,784,2/12/09 13:01,42.68056,-83.13389,leasing
+1/1/09 21:40,Product1,1200,Mastercard,Tina,Anglesea,785,2/12/09 14:58,-38.4166667,144.1666667,leasing
+1/27/09 18:06,Product1,1200,Visa,Emily,Killarney,786,2/12/09 19:28,25.05,-77.4166667,leasing
+1/10/09 14:59,Product1,1200,Amex,Maricel,Malibu                      ,787,2/12/09 19:39,34.005,-118.80917,life insurance
+1/26/09 15:42,Product1,1200,Visa,Patricia,Allen                       ,788,2/12/09 22:41,33.10306,-96.67028,rent
+1/12/09 14:37,Product1,1200,Mastercard,steve,Evires,789,2/12/09 23:49,46.0333333,6.2333333,leasing
+1/16/09 7:58,Product1,1200,Amex,Darrah,Den Haag,790,2/13/09 3:05,52.0833333,4.3,leasing
+1/22/09 14:32,Product1,1200,Visa,Sara,Perth City,791,2/13/09 3:50,-31.9333333,115.8333333,leasing
+1/19/09 6:50,Product1,1200,Visa,Erika,Redruth,792,2/13/09 4:27,50.2333333,-5.2333333,life insurance
+1/24/09 11:54,Product1,1200,Visa,Audrey,Bruxelles,793,2/13/09 6:39,50.8333333,4.3333333,rent
+1/13/09 13:36,Product1,1200,Visa,Louise,London,794,2/13/09 6:41,51.52721,0.14559,leasing
+1/13/09 11:56,Product1,1200,Diners,Karen,Montreal,795,2/13/09 8:18,45.5,-73.5833333,leasing
+1/19/09 7:49,Product1,1200,Amex,Maki,Miami Beach                 ,796,2/13/09 12:26,25.79028,-80.13028,leasing
+1/10/09 7:37,Product1,1200,Visa,Peter,Shankill,797,2/13/09 13:32,53.2261111,-6.1244444,life insurance
+1/20/09 5:53,Product1,1200,Diners,Ashlee,Oxford,798,2/13/09 14:15,51.75,-1.25,rent
+1/6/09 10:34,Product1,1200,Mastercard,Anja,New York                    ,799,2/13/09 14:41,40.71417,-74.00639,leasing
+1/23/09 5:14,Product1,1200,Visa,Ellen Walton ,Melbourne,800,2/13/09 15:28,-37.8166667,144.9666667,leasing
+1/14/09 16:02,Product1,1200,Mastercard,Jessica,Woodland Hills              ,801,2/13/09 16:45,34.16833,-118.605,leasing
+1/14/09 18:05,Product1,1200,Visa,Wouter and Andrea,Anchorage                   ,802,2/13/09 17:22,61.21806,-149.90028,life insurance
+1/8/09 20:52,Product1,1200,Visa,Pam and Rob,Yorba Linda                 ,803,2/13/09 19:32,33.88861,-117.81222,rent
+1/7/09 13:57,Product1,1200,Visa,Elsa,Waiwera,804,2/13/09 19:54,-36.55,174.7166667,leasing
+1/25/09 10:34,Product1,1200,Amex,kathleen kane,Jamaica Plain               ,805,2/13/09 20:20,42.30972,-71.12083,leasing
+1/28/09 4:35,Product1,1200,Diners,Selene,Oslo,806,2/13/09 23:15,59.9166667,10.75,leasing
+1/19/09 3:25,Product1,1200,Visa,Christy,Setagaya,807,2/14/09 1:03,35.6333333,139.65,life insurance
+1/18/09 0:41,Product2,3600,Visa,Hanna Agla,Donauworth,808,2/14/09 1:11,48.7,10.8,rent
+1/27/09 2:38,Product1,1200,Visa,Elyse,Bandon,809,2/14/09 3:36,51.7469444,-8.7425,leasing
+1/16/09 6:04,Product1,1200,Mastercard,Alexis,Ehingen an der Donau,810,2/14/09 5:05,48.2833333,9.7333333,leasing
+1/5/09 5:30,Product1,1200,Visa,M George,Paris,811,2/14/09 5:34,48.8666667,2.3333333,leasing
+1/9/09 14:55,Product1,1200,Visa,John,Banbury,812,2/14/09 7:27,52.05,-1.3333333,life insurance
+1/29/09 10:07,Product1,1200,Visa,cheryl,Beverly Hills               ,813,2/14/09 10:01,34.07361,-118.39944,rent
+1/27/09 3:55,Product1,1200,Amex,R,Danderyd,814,2/14/09 10:37,59.4166667,18.0166667,leasing
+1/25/09 12:35,Product2,3600,Visa,Charlene ,Sebastopol                  ,815,2/14/09 10:40,38.40222,-122.82278,leasing
+1/3/09 16:56,Product1,1200,Visa,Cindy,Glendora                    ,816,2/14/09 11:23,34.13611,-117.86444,leasing
+1/12/09 12:04,Product1,1200,Visa,Ed,Nacka,817,2/14/09 12:32,59.3,18.1666667,life insurance
+1/27/09 3:19,Product1,1200,Mastercard,Astrid,Canterbury,818,2/14/09 13:35,51.2666667,1.0833333,rent
+1/24/09 9:30,Product1,1200,Visa,Nicole,Neuchatel,819,2/14/09 13:45,47,6.9666667,leasing
+1/25/09 18:33,Product1,1200,Visa,Maria Macarena,Billings                    ,820,2/14/09 16:27,45.78333,-108.5,leasing
+1/15/09 11:43,Product1,1200,Visa,Maggie,Libertyville                ,821,2/14/09 17:43,42.28306,-87.95306,leasing
+1/23/09 16:30,Product2,3600,Amex,Christophe,Temecula                    ,822,2/14/09 19:11,33.49361,-117.1475,life insurance
+1/5/09 12:57,Product1,1200,Diners,Manoj,Boise                       ,823,2/14/09 19:19,43.61361,-116.2025,rent
+1/29/09 16:52,Product1,1200,Visa,Brenda,Rock Hill                   ,824,2/14/09 19:34,34.92472,-81.02528,leasing
+1/10/09 0:04,Product1,1200,Mastercard,Lizelle ,Mililani                    ,825,2/14/09 19:34,21.42556,-157.96083,leasing
+1/3/09 14:17,Product2,3600,Visa,Kees en Valesca,Scamander,826,2/14/09 20:11,-41.465,148.2572222,leasing
+1/15/09 9:00,Product1,1200,Visa,Cormac,Freeport City,827,2/14/09 20:36,26.5333333,-78.7,life insurance
+1/24/09 20:58,Product1,1200,Visa,jacqueline,North Vancouver,828,2/14/09 22:12,49.3166667,-123.0666667,rent
+1/10/09 11:53,Product1,1200,Visa,Martin,Ludwigsburg,829,2/15/09 1:42,48.9,9.1833333,leasing
+1/4/09 17:34,Product1,1200,Mastercard,Dean,Rockingham,830,2/15/09 2:14,-32.2833333,115.7166667,leasing
+1/28/09 0:22,Product1,1200,Visa,VERBENA,Basel,831,2/15/09 3:20,47.5666667,7.6,leasing
+1/17/09 1:49,Product1,1200,Mastercard,Angel Marie,Den Haag,832,2/15/09 5:19,52.0833333,4.3,life insurance
+1/25/09 17:48,Product1,1200,Visa,olla,Westminster                 ,833,2/15/09 8:08,39.83667,-105.03667,rent
+1/22/09 5:39,Product2,3600,Visa,Eman,Penclawdd,834,2/15/09 8:34,51.6333333,-4.1,leasing
+1/19/09 15:40,Product2,3600,Visa,Julia,Ede,835,2/15/09 10:33,52.0333333,5.6666667,leasing
+1/21/09 23:52,Product1,1200,Visa,Sarah,Plan-les-Ouattes,836,2/15/09 11:16,46.1666667,6.1166667,leasing
+1/19/09 13:15,Product1,1200,Visa,Esther,Stocksund,837,2/15/09 11:39,59.3833333,18.0666667,life insurance
+1/16/09 7:35,Product1,1200,Diners,amy,Stuttgart,838,2/15/09 12:00,48.7666667,9.1833333,rent
+1/22/09 9:48,Product2,3600,Mastercard,Jyoti,Tunbridge Wells,839,2/15/09 13:36,51.1333333,0.2833333,leasing
+1/18/09 12:05,Product2,3600,Visa,Keri,Issaquah                    ,840,2/15/09 13:40,47.53028,-122.03139,leasing
+1/4/09 10:44,Product1,1200,Diners,Paul,Burnaby,841,2/15/09 13:46,49.25,-122.95,leasing
+1/20/09 14:55,Product1,1200,Mastercard,Attie,Cypress                     ,842,2/15/09 15:23,33.81694,-118.03639,life insurance
+1/2/09 18:41,Product1,1200,Visa,odile,Lititz                      ,843,2/15/09 15:47,40.15722,-76.30722,rent
+1/2/09 7:03,Product1,1200,Visa,gail ,London,844,2/15/09 16:04,51.52721,0.14559,leasing
+1/21/09 7:19,Product1,1200,Visa,Niki,Chadds Ford                 ,845,2/15/09 16:06,39.87167,-75.59167,leasing
+1/11/09 17:52,Product2,3600,Visa,Danny,St Thomas                   ,846,2/15/09 18:08,18.35917,-64.92111,leasing
+1/16/09 17:56,Product1,1200,Mastercard,Sarah,Coppell                     ,847,2/15/09 20:13,32.95444,-97.01472,life insurance
+1/9/09 20:00,Product1,1200,Visa,Beckie ,Ladera Ranch                ,848,2/15/09 23:10,33.57056,-117.63861,rent
+1/13/09 2:47,Product1,1200,Visa,Maryse,Rathfarnham,849,2/16/09 0:09,53.3005556,-6.2827778,leasing
+1/19/09 4:23,Product2,3600,Mastercard,don,Cagliari,850,2/16/09 0:22,39.2166667,9.1166667,leasing
+1/13/09 12:51,Product1,1200,Visa,Majken,Charlottenlund,851,2/16/09 1:05,55.75,12.5833333,leasing
+1/29/09 7:40,Product1,1200,Amex,Karen and Andrew,Munchen,852,2/16/09 2:39,49.55,11.5833333,life insurance
+1/21/09 4:34,Product1,1200,Visa,Katerina,Firenze,853,2/16/09 3:45,43.7666667,11.25,rent
+1/7/09 13:28,Product1,1200,Mastercard,Mary,Baile Atha Bui,854,2/16/09 3:51,53.6186111,-6.9205556,leasing
+1/26/09 16:47,Product1,1200,Visa,Oscar,Chamonix-Mont-Blanc,855,2/16/09 5:01,45.9166667,6.8666667,leasing
+1/29/09 1:01,Product1,1200,Diners,Suejean,Gingins,856,2/16/09 5:09,46.4,6.1833333,leasing
+1/25/09 12:55,Product1,1200,Amex,ann,Boca Raton                  ,857,2/16/09 6:54,26.35833,-80.08333,life insurance
+1/24/09 13:35,Product1,1200,Visa,Renee,Chaska                      ,858,2/16/09 9:00,44.78944,-93.60194,rent
+1/28/09 13:30,Product1,1200,Visa,Catherine,Hghlnds Ranch               ,859,2/16/09 9:13,39.61333,-105.01611,leasing
+1/20/09 19:08,Product1,1200,Amex,Rhonda,Atlanta                     ,860,2/16/09 10:08,33.74889,-84.38806,leasing
+1/29/09 17:13,Product1,1200,Amex,alix,Tenafly                     ,861,2/16/09 10:19,40.92528,-73.96333,leasing
+1/2/09 5:33,Product1,1200,Visa,Mike,Aberdeen,862,2/16/09 11:12,57.1333333,-2.1,life insurance
+1/31/09 11:03,Product1,1200,Visa,Diane,Djurgarden,863,2/16/09 12:08,59.3166667,18.1166667,rent
+1/13/09 9:16,Product1,1200,Visa,Sigrun,Nashville                   ,864,2/16/09 12:33,36.16583,-86.78444,leasing
+1/19/09 12:38,Product1,1200,Visa,Dania,Munich,865,2/16/09 12:46,48.15,11.5833333,leasing
+1/18/09 12:14,Product2,3600,Mastercard,Kelsi,Utrecht,866,2/16/09 12:49,52.0833333,5.1333333,leasing
+1/22/09 10:59,Product1,1200,Visa,Maria,Boyceville                  ,867,2/16/09 14:50,45.04361,-92.04083,life insurance
+1/14/09 7:30,Product1,1200,Visa,Bent Erik,Basauri,868,2/16/09 15:04,43.0166667,-2.4,rent
+1/19/09 1:52,Product1,1200,Amex,Kirsten,Melbourne,869,2/17/09 1:20,-37.8166667,144.9666667,leasing
+1/8/09 23:00,Product1,1200,Visa,Dickson,Kemerburgaz,870,2/17/09 1:29,41.1594444,28.9127778,leasing
+1/25/09 7:29,Product1,1200,Diners,Howard,Worcester,871,2/17/09 3:00,52.2,-2.2,leasing
+1/17/09 15:19,Product1,1200,Visa,Dana,Thurles,872,2/17/09 3:26,52.6819444,-7.8022222,life insurance
+1/23/09 12:23,Product1,1200,Mastercard,Nola,Den Haag,873,2/17/09 3:35,52.0833333,4.3,rent
+1/24/09 8:45,Product1,1200,Visa,Elizabeth,Cos Cob                     ,874,2/17/09 3:40,41.03333,-73.6,leasing
+1/27/09 3:45,Product2,3600,Visa,minjeong,Bern,875,2/17/09 3:44,46.9166667,7.4666667,leasing
+1/29/09 23:48,Product1,1200,Visa,Matt,Leicester,876,2/17/09 5:47,52.6333333,-1.1333333,leasing
+1/3/09 18:43,Product1,1200,Visa,Vanessa,Cornwall,877,2/17/09 6:17,45.0166667,-74.7333333,Cinema
+1/24/09 17:18,Product2,3600,Visa,Charlotte,Sterling                    ,878,2/17/09 6:26,39.00611,-77.42889,Shopping Mall
+1/2/09 15:13,Product1,1200,Visa,Rowena,Cork,879,2/17/09 6:38,51.8986111,-8.4958333,Restaurant
+1/8/09 10:44,Product1,1200,Visa,Catherine,Mount Forest,880,2/17/09 6:39,43.9666667,-80.7333333,Cinema
+1/29/09 8:13,Product1,1200,Mastercard,Sarah,Ridgefield                  ,881,2/17/09 7:55,41.28139,-73.49861,Sports
+1/24/09 10:26,Product1,1200,Visa,sorcha,Porto Alegre,882,2/17/09 8:05,-30.0333333,-51.2,car insurace
+1/24/09 12:56,Product1,1200,Visa,sorcha,Cartierville,883,2/17/09 9:19,45.5333333,-73.7166667,home insurance
+1/7/09 13:38,Product1,1200,Mastercard,Mary,Stuttgart,884,2/17/09 9:32,48.7666667,9.1833333,Cinema
+1/23/09 15:38,Product1,1200,Visa,Ronja,Manhattan                   ,885,2/17/09 10:58,40.71417,-74.00639,Shopping Mall
+1/26/09 14:43,Product1,1200,Visa,Nicola ,Sneem,886,2/17/09 11:07,51.8333333,-9.9,Restaurant
+1/17/09 20:33,Product1,1200,Amex,BURCAK,Alpharetta                  ,887,2/17/09 12:31,34.07528,-84.29417,Cinema
+1/5/09 9:15,Product1,1200,Visa,isabelle,Sainte-Therese-de-Blainville,888,2/17/09 12:34,45.6333333,-73.85,Cinema
+1/20/09 8:16,Product1,1200,Mastercard,christy,Germantown                  ,889,2/17/09 13:01,35.08667,-89.81,Shopping Mall
+1/29/09 12:46,Product1,1200,Visa,Lilly,Castleknock,890,2/17/09 14:06,53.3786111,-6.3922222,Restaurant
+1/15/09 18:12,Product1,1200,Diners,Mandy,Hono                        ,891,2/17/09 14:17,21.30694,-157.85833,Cinema
+1/23/09 13:55,Product1,1200,Mastercard,Elena,New Rochelle                ,892,2/17/09 15:16,40.91139,-73.78278,Sports
+1/26/09 10:26,Product1,1200,Visa,Lolarae,Calgary,893,2/17/09 15:17,51.0833333,-114.0833333,car insurace
+1/12/09 11:48,Product1,1200,Mastercard,Lisa,South Waterford             ,894,2/17/09 15:29,44.1786,-70.7164,home insurance
+1/29/09 15:20,Product1,1200,Mastercard,Nita and Trebor,Washington Township         ,895,2/17/09 16:29,39.75889,-84.19167,Cinema
+1/28/09 7:26,Product1,1200,Visa,Jenevieve,Guelph,896,2/17/09 18:08,43.55,-80.25,Shopping Mall
+1/14/09 0:03,Product2,3600,Mastercard,Piret,Bunbury,897,2/17/09 19:31,-33.3333333,115.6333333,Restaurant
+1/13/09 1:55,Product1,1200,Mastercard,Damian,Mettlach,898,2/17/09 20:45,49.5,6.6,Cinema
+1/12/09 23:21,Product1,1200,Mastercard,Lusell,Oberwil,899,2/17/09 22:57,47.5166667,7.55,Cinema
+1/22/09 2:16,Product1,1200,Visa,Costanza,Beykoz,900,2/18/09 0:27,41.1438889,29.0905556,Shopping Mall
+1/29/09 12:53,Product1,1200,Visa,Vanessa,Arc-et-Senans,901,2/18/09 1:03,47.0333333,5.7666667,Restaurant
+1/28/09 11:36,Product1,1200,Diners,Evelyn,Grossbodungen,902,2/18/09 2:04,51.4666667,10.5,Cinema
+1/19/09 6:50,Product1,1200,Amex,Nicola,Bruxelles,903,2/18/09 2:30,50.8333333,4.3333333,Sports
+1/30/09 5:20,Product1,1200,Visa,Simone,Kilcornan,904,2/18/09 7:23,52.6166667,-8.8833333,car insurace
+1/19/09 14:06,Product1,1200,Mastercard,Elisabeth,Wilmington                  ,905,2/18/09 8:18,34.22556,-77.945,home insurance
+1/8/09 9:43,Product1,1200,Visa,Kasey,Aix-en-Provence,906,2/18/09 8:38,43.5333333,5.4333333,Cinema
+1/23/09 9:09,Product2,3600,Amex,Olympe,Lidingo,907,2/18/09 8:45,59.3666667,18.1333333,Shopping Mall
+1/20/09 8:58,Product1,1200,Visa,James,Edmonton,908,2/18/09 9:42,53.55,-113.5,Restaurant
+1/2/09 13:35,Product1,1200,Visa,Alyssa,Antibes,909,2/18/09 10:28,43.5833333,7.1166667,Cinema
+1/9/09 15:03,Product1,1200,Visa,Reto,Seattle                     ,910,2/18/09 15:51,47.60639,-122.33083,Cinema
+1/23/09 7:04,Product1,1200,Amex,Joelle,Rowayton                    ,911,2/18/09 16:55,41.1175,-73.40833,Shopping Mall
+1/17/09 10:14,Product1,1200,Mastercard,Nicole,Simcoe,912,2/18/09 18:49,42.8333333,-80.3,Restaurant
+1/19/09 16:16,Product1,1200,Mastercard,Alexandria,Lebanon                     ,913,2/18/09 19:38,40.34083,-76.41167,Cinema
+1/20/09 13:54,Product1,1200,Mastercard,Elisabeth,Birkdale,914,2/18/09 23:07,-27.4833333,153.2166667,Sports
+1/23/09 21:35,Product1,1200,Visa,Ann,Brisbane,915,2/18/09 23:12,-27.5,153.0166667,car insurace
+1/21/09 23:41,Product1,1200,Visa,Olga,Strasbourg,916,2/19/09 0:09,48.5833333,7.75,home insurance
+1/21/09 4:11,Product1,1200,Visa,Courtney,Suchdol,917,2/19/09 0:55,50.1333333,14.3833333,Cinema
+1/10/09 3:43,Product1,1200,Visa,stacy,Stuttgart,918,2/19/09 3:11,48.7666667,9.1833333,Shopping Mall
+1/15/09 18:08,Product2,3600,Amex,Monica,Villanova                   ,919,2/19/09 3:19,40.03722,-75.34944,Restaurant
+1/20/09 14:48,Product2,3600,Visa,Michael,Norrkoping,920,2/19/09 5:22,58.6,16.1833333,Cinema
+1/21/09 11:56,Product1,1200,Visa,Katrin,Zumikon,921,2/19/09 7:05,47.3333333,8.6166667,Cinema
+1/30/09 6:18,Product2,3600,Mastercard,Louise,Balgach,922,2/19/09 7:10,47.4166667,9.6,Shopping Mall
+1/12/09 17:28,Product1,1200,Amex,Alfredo A,Las Vegas                   ,923,2/19/09 8:09,36.175,-115.13639,Restaurant
+1/29/09 8:27,Product2,3600,Visa,Kerry,Prague,924,2/19/09 8:41,50.0833333,14.4666667,Cinema
+1/24/09 12:43,Product1,1200,Visa,Saeko ,Warwick                     ,925,2/19/09 10:28,41.25639,-74.36028,Sports
+1/7/09 10:49,Product2,3600,Visa,VIOLETA,Silver Spring               ,926,2/19/09 10:43,38.99056,-77.02639,car insurace
+1/11/09 17:06,Product1,1200,Visa,Antje,Sacramento                  ,927,2/19/09 12:05,38.58167,-121.49333,home insurance
+1/30/09 6:17,Product1,1200,Visa,janet,Blarney,928,2/19/09 12:48,51.9333333,-8.5666667,Cinema
+1/7/09 10:52,Product1,1200,Visa,claire ,Ballyneety,929,2/19/09 14:32,52.5961111,-8.5469444,Shopping Mall
+1/27/09 6:20,Product1,1200,Mastercard,Nathalie,Haymarket                   ,930,2/19/09 16:52,38.81194,-77.63667,Restaurant
+1/21/09 20:02,Product1,1200,Mastercard,Daria,George Town,931,2/19/09 19:19,19.3,-81.3833333,Cinema
+1/4/09 16:23,Product1,1200,Visa,Judith L.,Scottsdale                  ,932,2/19/09 19:35,33.50917,-111.89833,Cinema
+1/6/09 12:26,Product1,1200,Visa,Audinet,Cambridge                   ,933,2/19/09 19:44,42.375,-71.10611,Shopping Mall
+1/11/09 4:34,Product1,1200,Visa,William,Chalfont Saint Peter,934,2/19/09 21:38,51.6,-0.55,Restaurant
+1/17/09 6:39,Product1,1200,Diners,Tatjana and Martin,Birmingham,935,2/19/09 23:30,52.4666667,-1.9166667,Cinema
+1/4/09 3:41,Product1,1200,Mastercard,Scott,Den Haag,936,2/20/09 0:24,52.0833333,4.3,Sports
+1/12/09 5:50,Product3,7500,Mastercard,Brona,Den Haag,937,2/20/09 0:24,52.0833333,4.3,car insurace
+1/3/09 13:43,Product1,1200,Mastercard,Andree,Newmarket,938,2/20/09 3:18,52.2166667,-9,home insurance
+1/11/09 6:51,Product1,1200,Visa,Aziz,Irpin',939,2/20/09 3:46,50.5166667,30.25,Cinema
+1/17/09 6:23,Product1,1200,Visa,Fernando,Grosseto,940,2/20/09 6:39,42.7666667,11.1333333,Shopping Mall
+1/26/09 18:38,Product1,1200,Visa,Jo,Pembroke Pines              ,941,2/20/09 8:09,26.01083,-80.14972,Restaurant
+1/31/09 13:26,Product1,1200,Visa,Joern,Waterford,942,2/20/09 8:27,42.9333333,-80.2833333,Cinema
+1/21/09 2:20,Product2,3600,Visa,Melissa,Carouge,943,2/20/09 8:38,46.1833333,6.1333333,Cinema
+1/18/09 13:25,Product1,1200,Visa,Melissa,Chester                     ,944,2/20/09 10:08,41.40306,-72.45139,Shopping Mall
+1/18/09 18:57,Product1,1200,Mastercard,isabela,Reston                      ,945,2/20/09 11:34,38.96861,-77.34139,Restaurant
+1/31/09 1:59,Product1,1200,Visa,Nacole,Milan,946,2/20/09 11:41,45.4666667,9.2,Cinema
+1/25/09 16:08,Product1,1200,Diners,Jennifer,Vancouver,947,2/20/09 12:47,49.25,-123.1333333,Sports
+1/16/09 19:13,Product1,1200,Diners,Mary,Alpharetta                  ,948,2/20/09 13:54,34.07528,-84.29417,car insurace
+1/31/09 15:25,Product1,1200,Visa,Lisa,Ringgold                    ,949,2/20/09 15:53,34.91583,-85.10917,home insurance
+1/9/09 8:57,Product1,1200,Diners,Debora ,Wall                        ,950,2/20/09 16:45,40.1478,-74.2133,Cinema
+1/4/09 22:18,Product2,3600,Mastercard,Karoline ,Powell River,951,2/20/09 21:45,49.8833333,-124.55,Shopping Mall
+1/10/09 15:18,Product2,3600,Mastercard,Jo ,Huntington Beach            ,952,2/20/09 22:24,33.66028,-117.99833,Restaurant
+1/16/09 19:47,Product1,1200,Amex,Kristen,Los Gatos                   ,953,2/20/09 23:09,37.22667,-121.97361,Cinema
+1/25/09 8:16,Product2,3600,Visa,Astrid,Oslo,954,2/20/09 23:22,59.9166667,10.75,Cinema
+1/25/09 8:48,Product1,1200,Mastercard,Malinda,Oxford,955,2/21/09 1:36,51.75,-1.25,Shopping Mall
+1/17/09 9:12,Product1,1200,Amex,Sylvia,Alexandria                  ,956,2/21/09 4:50,38.80472,-77.04722,Restaurant
+1/24/09 1:22,Product1,1200,Visa,Jupiterlina Elika,Rome,957,2/21/09 6:04,41.9,12.4833333,Cinema
+1/27/09 15:09,Product1,1200,Visa,Aniko,Random Lake                 ,958,2/21/09 7:37,43.55222,-87.96167,Sports
+1/25/09 21:49,Product1,1200,Mastercard,Petra,San Francisco               ,959,2/21/09 9:26,37.775,-122.41833,car insurace
+1/24/09 8:51,Product1,1200,Mastercard,Heather,Baluan,960,2/21/09 10:08,6.1036111,125.2163889,home insurance
+1/6/09 14:08,Product1,1200,Mastercard,Kim,Brussels,961,2/21/09 10:49,50.8333333,4.3333333,Cinema
+1/17/09 14:06,Product1,1200,Amex,Ruby,Bedford Corners             ,962,2/21/09 13:03,41.20417,-73.7275,Shopping Mall
+1/21/09 12:38,Product1,1200,Visa,Novy ,Istanbul,963,2/21/09 13:55,41.0186111,28.9647222,Restaurant
+1/30/09 23:49,Product2,3600,Visa,Stephanie,Hilversum,964,2/21/09 14:05,52.2333333,5.1833333,Cinema
+1/12/09 12:00,Product1,1200,Mastercard,Tammy,Milford                     ,965,2/21/09 18:45,44.94611,-68.64444,Cinema
+1/29/09 21:40,Product1,1200,Visa,Alessandra,Vancouver,966,2/21/09 20:32,49.25,-123.1333333,Shopping Mall
+1/24/09 13:38,Product1,1200,Mastercard,Cathy,Kidderminster,967,2/22/09 0:00,52.3833333,-2.25,Restaurant
+1/25/09 13:50,Product2,3600,Visa,Scott,Lausanne,968,2/22/09 3:33,46.5333333,6.6666667,Cinema
+1/12/09 13:41,Product1,1200,Amex,dia,Claygate,969,2/22/09 3:51,51.35,-0.35,Sports
+1/5/09 11:44,Product1,1200,Visa,Lauren,Laasby,970,2/22/09 6:15,56.15,9.8166667,car insurace
+1/2/09 8:31,Product1,1200,Visa,Line,Budaors,971,2/22/09 7:06,47.45,18.9666667,home insurance
+1/31/09 7:13,Product1,1200,Amex,Sean,London,972,2/22/09 7:12,51.52721,0.14559,Cinema
+1/20/09 2:17,Product1,1200,Diners,Sarah,Santo Domingo City,973,2/22/09 11:21,18.4666667,-69.9,Shopping Mall
+1/25/09 20:15,Product1,1200,Visa,Brian,Croton On Hudson            ,974,2/22/09 11:51,41.2219,-73.887,Restaurant
+1/25/09 19:44,Product1,1200,Mastercard,Lesa,Vespasiano,975,2/22/09 14:24,-19.6666667,-43.9166667,Cinema
+1/30/09 9:00,Product1,1200,Mastercard,james,Nashville                   ,976,2/22/09 15:58,36.16583,-86.78444,Cinema
+1/7/09 19:18,Product1,1200,Mastercard,loudon,Ottawa,977,2/22/09 16:06,45.4166667,-75.7,Shopping Mall
+1/4/09 10:18,Product1,1200,Mastercard,Allison,Naples                      ,978,2/22/09 18:36,26.14167,-81.795,Restaurant
+1/23/09 14:57,Product1,1200,Mastercard,Surat,Bridgewater                 ,979,2/22/09 18:48,40.5945,-74.6244,Cinema
+1/12/09 10:08,Product2,3600,Mastercard,Judy,Washington                  ,980,2/22/09 18:58,38.895,-77.03667,Sports
+1/19/09 4:22,Product1,1200,Diners,brian,Hagen,981,2/22/09 22:33,49.5,6.1666667,car insurace
+1/21/09 21:37,Product1,1200,Visa,Rachel,Taicheng,982,2/23/09 1:36,22.25,112.7833333,home insurance
+1/25/09 4:34,Product1,1200,Mastercard,Hilde,Groningen,983,2/23/09 3:12,53.2166667,6.55,Cinema
+1/30/09 1:09,Product1,1200,Mastercard,Tarja,Villars,984,2/23/09 3:56,46.3,7.05,Shopping Mall
+1/26/09 15:16,Product1,1200,Visa,Megan,Huntersville                ,985,2/23/09 5:14,35.41056,-80.84306,Restaurant
+1/15/09 15:56,Product2,3600,Visa,Charmain,Cartersburg                 ,986,2/23/09 6:24,39.69861,-86.46361,Cinema
+1/2/09 20:47,Product1,1200,Visa,Katharina,Flower Mound                ,987,2/23/09 6:56,33.01444,-97.09667,Cinema
+1/25/09 9:36,Product1,1200,Visa,Zaneta ,Rochester                   ,988,2/23/09 6:58,42.68056,-83.13389,Shopping Mall
+1/20/09 20:09,Product1,1200,Visa,Jeannette,Dubai,989,2/23/09 7:01,25.2522222,55.28,Restaurant
+1/8/09 11:14,Product2,3600,Visa,Liz,Langnau,990,2/23/09 7:17,47.2833333,8.5333333,Cinema
+1/6/09 20:39,Product2,3600,Mastercard,Christiane,Mission,991,2/23/09 8:55,49.1333333,-122.3,Sports
+1/6/09 18:10,Product1,1200,Visa,Cherie,Columbus                    ,992,2/23/09 11:35,39.96111,-82.99889,car insurace
+1/11/09 6:46,Product2,3600,Visa,Shiree,Clondalkin,993,2/23/09 11:56,53.3244444,-6.3972222,home insurance
+1/19/09 14:26,Product1,1200,Mastercard,Tracey,Harold's Cross,994,2/23/09 12:02,53.3263889,-6.2947222,Cinema
+1/31/09 6:14,Product1,1200,Diners,Scott ,Sag Harbor                  ,995,2/23/09 13:36,40.99778,-72.29306,Shopping Mall
+1/6/09 9:31,Product1,1200,Visa,Frances,San Diego                   ,996,2/23/09 15:39,32.71528,-117.15639,Restaurant
+1/21/09 7:31,Product1,1200,Mastercard,Beatrice,Wilmington                  ,997,2/23/09 16:29,39.74583,-75.54694,Cinema
+1/20/09 17:23,Product2,3600,Visa,Jessica,Toronto,998,2/23/09 19:35,43.6666667,-79.4166667,Cinema
+1/29/09 12:10,Product1,1200,Amex,Alison,Issaquah                    ,999,2/23/09 21:58,47.61056,-122.19944,Shopping Mall
+1/24/09 23:21,Product1,1200,Visa,elaine,Phuket,1000,2/24/09 1:12,7.8833333,98.4,Restaurant
+1/28/09 10:37,Product1,1200,Visa,Chevonne,Athina,1001,2/24/09 2:58,37.9833333,23.7333333,Cinema
+1/30/09 14:36,Product1,1200,Visa,danielle,Geneve,1002,2/24/09 3:15,46.2,6.1666667,Sports
+1/21/09 2:07,Product1,1200,Mastercard,Caroline and Jonathan,Chichester,1003,2/24/09 3:29,50.8333333,-0.7833333,car insurace
+1/26/09 6:37,Product1,1200,Visa,manuela,Massagno,1004,2/24/09 5:30,46.0166667,8.95,home insurance
+1/4/09 14:27,Product1,1200,Visa,Carole,Cardiff,1005,2/24/09 7:30,51.5,-3.2,Cinema
+1/9/09 3:03,Product2,3600,Amex,Ghislaine,Ferney-Voltaire,1006,2/24/09 8:10,46.25,6.1166667,Shopping Mall
+1/8/09 19:26,Product2,3600,Visa,Christian,Mableton                    ,1007,2/24/09 8:22,33.81861,-84.5825,Restaurant
+1/10/09 16:02,Product1,1200,Visa,Hollie,San Diego                   ,1008,2/24/09 8:32,32.71528,-117.15639,Cinema
+1/6/09 6:31,Product1,1200,Visa,mike,La Louviere,1009,2/24/09 8:32,50.4666667,4.1833333,Cinema
+1/23/09 13:13,Product1,1200,Mastercard,Malahat,Minneapolis                 ,1010,2/24/09 8:46,44.98,-93.26361,Shopping Mall
+1/18/09 17:55,Product1,1200,Amex,Michaela,Mafra,1011,2/24/09 10:09,-26.1180556,-49.8016667,Restaurant
+1/5/09 15:15,Product1,1200,Amex,Amy,Ashford,1012,2/24/09 10:35,51.1333333,0.8833333,Cinema
+1/2/09 10:32,Product1,1200,Mastercard,Brandi,Edmonton,1013,2/24/09 12:08,53.55,-113.5,Sports
+1/25/09 9:27,Product1,1200,Visa,erin,London,1014,2/24/09 13:37,51.52721,0.14559,car insurace
+1/5/09 6:12,Product1,1200,Diners,Tracy,Lucca,1015,2/24/09 13:56,43.8333333,10.4833333,home insurance
+1/6/09 2:41,Product1,1200,Visa,Polyxene,Perth,1016,2/24/09 16:04,-31.9333333,115.8333333,Cinema
+1/27/09 14:42,Product2,3600,Mastercard,Jean,Arlington                   ,1017,2/24/09 16:38,38.89028,-77.08444,Shopping Mall
+1/8/09 12:03,Product1,1200,Diners,Andrea,Calgary,1018,2/24/09 17:41,51.0833333,-114.0833333,Restaurant
+1/29/09 12:16,Product1,1200,Mastercard,Jessica,Chiefland                   ,1019,2/24/09 18:29,29.47472,-82.86,Cinema
+1/19/09 10:47,Product1,1200,Mastercard,David,Stavenger,1020,2/25/09 0:40,58.9666667,5.75,Cinema
+1/8/09 2:49,Product2,3600,Mastercard,Caroline,Begnins,1021,2/25/09 1:37,46.4333333,6.25,Shopping Mall
+1/19/09 17:40,Product1,1200,Visa,Riche Lou,Newton                      ,1022,2/25/09 2:28,42.33694,-71.20972,Restaurant
+1/11/09 0:15,Product1,1200,Mastercard,Chris,Den Haag,1023,2/25/09 4:04,52.0833333,4.3,Cinema
+1/16/09 5:12,Product2,3600,Visa,Karen,Berikon,1024,2/25/09 5:12,47.35,8.3833333,Sports
+1/19/09 6:52,Product1,1200,Diners,melanie,Santa Barbaraa,1025,2/25/09 5:44,10.0333333,-84.15,car insurace
+1/26/09 1:14,Product1,1200,Visa,beatrice,Churra,1026,2/25/09 5:47,38.0166667,-1.1333333,home insurance
+1/30/09 10:31,Product1,1200,Mastercard,lorna,Castle Rock                 ,1027,2/25/09 7:42,39.37222,-104.85556,Cinema
+1/23/09 5:52,Product1,1200,Amex,Tary,Zug,1028,2/25/09 9:40,47.1666667,8.5166667,Shopping Mall
+1/7/09 9:54,Product1,1200,Visa,Julie ,Ashford,1029,2/25/09 10:18,51.1,-4.1,Restaurant
+1/1/09 16:44,Product1,1200,Amex,Julie ,Rockville                   ,1030,2/25/09 10:48,39.08389,-77.15306,Cinema
+1/23/09 9:27,Product1,1200,Mastercard,Jerome,Madrid,1031,2/25/09 11:38,40.4,-3.6833333,Cinema
+1/22/09 12:56,Product1,1200,Visa,Laleh,Aasgaardstrand,1032,2/25/09 12:03,59.3488889,10.4675,Shopping Mall
+1/16/09 13:35,Product1,1200,Visa,Michael,Milano,1033,2/25/09 13:59,45.4666667,9.2,Restaurant
+1/13/09 9:26,Product1,1200,Visa,Kerry,Anieres,1034,2/25/09 14:05,46.2833333,6.2166667,Cinema
+1/25/09 11:35,Product3,7500,Mastercard,Anita,Fresno                      ,1035,2/25/09 14:22,29.53861,-95.44722,Sports
+1/26/09 14:02,Product1,1200,Mastercard,Veronique,Fresno                      ,1036,2/25/09 14:22,29.53861,-95.44722,car insurace
+1/7/09 13:26,Product1,1200,Visa,Sarah,Warwick,1037,2/25/09 15:16,45.95,-71.9833333,home insurance
+1/15/09 11:45,Product1,1200,Diners,Simone,Watford,1038,2/25/09 15:21,51.6666667,-0.4,Cinema
+1/27/09 12:02,Product1,1200,Visa,Jackie,Waterford,1039,2/25/09 15:41,52.2583333,-7.1119444,Shopping Mall
+1/28/09 14:09,Product1,1200,Visa,giovanna,Pruszkow,1040,2/25/09 16:19,52.1666667,20.8333333,Restaurant
+1/23/09 7:13,Product1,1200,Visa,Elizabeth,Hamilton,1041,2/25/09 16:20,32.2941667,-64.7838889,Cinema
+1/22/09 15:59,Product2,3600,Visa,Lisa,Ottawa,1042,2/25/09 17:15,45.4166667,-75.7,Cinema
+1/16/09 10:27,Product1,1200,Mastercard,Maki,Montgomery                  ,1043,2/25/09 17:24,30.38806,-95.69611,Shopping Mall
+1/26/09 22:45,Product1,1200,Amex,Anjan,Tokyo,1044,2/25/09 17:34,35.685,139.7513889,Restaurant
+1/25/09 18:33,Product1,1200,Mastercard,Sarah,Manteno                     ,1045,2/25/09 19:27,41.25056,-87.83139,Cinema
+1/16/09 6:13,Product1,1200,Mastercard,Niamh,Benoni,1046,2/25/09 23:19,-26.1833333,28.3166667,Sports
+1/12/09 17:19,Product2,3600,Diners,elizabeth r,Winter Haven                ,1047,2/26/09 0:42,28.02194,-81.73306,car insurace
+1/2/09 4:21,Product1,1200,Visa,Elaine,Tranby,1048,2/26/09 3:18,59.8166667,10.25,home insurance
+1/5/09 3:03,Product1,1200,Diners,Elizabeth,Cork,1049,2/26/09 4:05,51.8986111,-8.4958333,Cinema
+1/15/09 15:22,Product1,1200,Visa,Sara,Fort Lauderdale             ,1050,2/26/09 5:52,26.12194,-80.14361,Shopping Mall
+1/26/09 5:38,Product2,3600,Amex,Tulin,Cranberry Twp               ,1051,2/26/09 6:04,40.69472,-80.13111,Restaurant
+1/24/09 10:38,Product1,1200,Visa,Kenneth,Arlington                   ,1052,2/26/09 6:08,38.89028,-77.08444,Cinema
+1/2/09 7:30,Product1,1200,Mastercard,Fiona,Lake Ronkonkoma,1053,2/26/09 6:14,40.835,-73.13167,Cinema
+1/26/09 6:38,Product1,1200,Visa,Christian,Alexandria                  ,1054,2/26/09 7:16,38.80472,-77.04722,Shopping Mall
+1/17/09 7:56,Product3,7500,Diners,Michel,Lipari,1055,2/26/09 7:32,38.4666667,14.95,Restaurant
+1/17/09 7:58,Product3,7500,Diners,natalie,Lipari,1056,2/26/09 7:32,38.4666667,14.95,Cinema
+1/18/09 4:32,Product1,1200,Diners,jure,Lipari,1057,2/26/09 7:32,38.4666667,14.95,Sports
+1/26/09 8:00,Product1,1200,Amex,Elizabeth ,Bluffton                    ,1058,2/26/09 7:49,32.23694,-80.86056,car insurace
+1/11/09 8:41,Product1,1200,Amex,Juliann,Winter Spgs                 ,1059,2/26/09 8:17,28.69861,-81.30833,home insurance
+1/21/09 10:32,Product1,1200,Mastercard,Julie ,Chelmsford                  ,1060,2/26/09 8:38,42.59972,-71.36778,Cinema
+1/29/09 12:27,Product1,1200,Mastercard,philippa katherine,Cabinteely,1061,2/26/09 10:09,53.2594444,-6.1447222,Shopping Mall
+1/13/09 13:19,Product2,3600,Mastercard,Anthony,Toronto,1062,2/26/09 11:19,43.6666667,-79.4166667,Restaurant
+1/31/09 18:12,Product1,1200,Visa,matthew,Cincinnati                  ,1063,2/26/09 12:03,39.16194,-84.45694,Cinema
+1/22/09 15:35,Product1,1200,Visa,Steven,Houston                     ,1064,2/26/09 12:06,29.76306,-95.36306,Cinema
+1/5/09 11:24,Product1,1200,Amex,Angie,Rodeo                       ,1065,2/26/09 12:15,38.01722,-122.2875,Shopping Mall
+1/23/09 11:23,Product1,1200,Mastercard,Lauren,Poughkeepsie                ,1066,2/26/09 12:17,41.70028,-73.92139,Restaurant
+1/7/09 20:55,Product1,1200,Mastercard,Esther,Cincinnati                  ,1067,2/26/09 12:24,39.16194,-84.45694,Cinema
+1/13/09 9:40,Product1,1200,Visa,Elizabeth,North Eastham               ,1068,2/26/09 12:45,41.865,-69.99167,Sports
+1/25/09 15:18,Product2,3600,Visa,marie-louise,Sitka                       ,1069,2/26/09 12:58,57.05306,-135.33,car insurace
+1/30/09 20:58,Product2,3600,Mastercard,Tanya,Carcross,1070,2/26/09 13:06,60.1833333,-134.7166667,home insurance
+1/31/09 4:50,Product1,1200,Mastercard,Detlev,Taby,1071,2/26/09 13:12,59.5,18.05,Cinema
+1/20/09 10:05,Product2,3600,Visa,Stephen,Calgary,1072,2/26/09 13:28,51.0833333,-114.0833333,Shopping Mall
+1/9/09 5:15,Product1,1200,Visa,Roza,Alcobendas,1073,2/26/09 14:24,40.5333333,-3.6333333,Restaurant
+1/13/09 7:09,Product2,3600,Amex,John,Chicago                     ,1074,2/26/09 15:14,41.85,-87.65,Cinema
+1/3/09 11:03,Product1,1200,Mastercard,paula,Sammamish                   ,1075,2/26/09 15:30,47.64194,-122.07917,Cinema
+1/17/09 20:51,Product1,1200,Visa,Kathryn,Waiau Pa,1076,2/26/09 16:19,-37.1333333,174.75,Shopping Mall
+1/5/09 7:55,Product1,1200,Mastercard,Isabelle,Ewa Beach                   ,1077,2/26/09 17:47,21.31556,-158.00722,Restaurant
+1/25/09 14:40,Product1,1200,Visa,Maureen,Statesville                 ,1078,2/26/09 18:38,35.7825,-80.8875,Cinema
+1/25/09 17:55,Product1,1200,Visa,David,Kapaa                       ,1079,2/26/09 20:21,22.07833,-159.32194,Sports
+1/3/09 12:54,Product1,1200,Diners,caterina,Burbank                     ,1080,2/26/09 20:22,34.18083,-118.30806,car insurace
+1/22/09 3:57,Product2,3600,Mastercard,Parth,Oegstgeest,1081,2/27/09 1:59,52.1833333,4.4666667,home insurance
+1/23/09 5:11,Product1,1200,Visa,Alexia,Blackrock,1082,2/27/09 4:00,53.3030556,-6.1830556,Cinema
+1/25/09 11:52,Product2,3600,Mastercard,Gloria Gail ,WalcProduct3ee,1083,2/27/09 5:37,47.65,12.3166667,Shopping Mall
+1/10/09 4:12,Product1,1200,Visa,Gloria Gail ,Foxrock,1084,2/27/09 6:33,53.2666667,-6.1741667,Restaurant
+1/10/09 9:32,Product2,3600,Mastercard,Cheryl,Hilton Head                 ,1085,2/27/09 7:33,32.21611,-80.75278,Cinema
+1/22/09 12:45,Product3,7500,Visa,Frank and Christelle,Valley Center               ,1086,2/27/09 10:49,33.21833,-117.03333,Cinema
+1/6/09 18:11,Product2,3600,Mastercard,Triona,Swampscott                  ,1087,2/27/09 13:00,42.47083,-70.91806,Shopping Mall
+1/19/09 5:56,Product1,1200,Visa,Allison,Edinburgh,1088,2/27/09 14:35,55.95,-3.2,Restaurant
+1/25/09 10:50,Product1,1200,Diners,Phillip,San Antonio                 ,1089,2/27/09 14:44,29.42389,-98.49333,Cinema
+1/14/09 8:38,Product1,1200,Visa,jingyan,Bristol                     ,1090,2/27/09 17:13,41.67694,-71.26667,Sports
+1/2/09 17:24,Product2,3600,Diners,clara,Perth,1091,2/27/09 18:43,-31.9333333,115.8333333,car insurace
+1/7/09 18:15,Product1,1200,Mastercard,Selma,Greenville                  ,1092,2/27/09 19:07,33.13833,-96.11056,home insurance
+1/3/09 21:19,Product1,1200,Visa,Doug and Tina,Pls Vrds Est                ,1093,2/27/09 21:40,33.80056,-118.38917,Cinema
+1/4/09 5:13,Product1,1200,Visa,Lauren,Hradec Kralove,1094,2/27/09 23:30,50.2116667,15.8441667,Shopping Mall
+1/4/09 9:28,Product1,1200,Visa,Jen,Maidstone,1095,2/28/09 2:28,51.2666667,0.5166667,Restaurant
+1/2/09 4:34,Product1,1200,Visa,gladys,Saint Albans,1096,2/28/09 3:43,51.75,-0.3333333,Cinema
+1/22/09 11:10,Product1,1200,Mastercard,Gustavo,Voluntari,1097,2/28/09 7:52,44.4666667,26.1333333,Cinema
+1/7/09 12:06,Product1,1200,Visa,Erica,Nadur,1098,2/28/09 7:59,36.0377778,14.2941667,Shopping Mall
+1/29/09 13:25,Product1,1200,Diners,Hale,Morrison                    ,1099,2/28/09 8:27,39.65361,-105.19056,Restaurant
+1/27/09 2:57,Product1,1200,Visa,Rosemary,Cobham,1100,2/28/09 9:22,51.3833333,0.4,Cinema
+1/7/09 13:19,Product1,1200,Visa,Darian,Izmir,1101,2/28/09 9:54,38.4072222,27.1502778,Sports
+1/23/09 10:04,Product1,1200,Mastercard,Kevin,Hollywood                   ,1102,2/28/09 9:59,34.09833,-118.32583,car insurace
+1/19/09 4:55,Product1,1200,Visa,Alyssa,Brighton,1103,2/28/09 10:06,50.8333333,-0.15,home insurance
+1/28/09 22:02,Product1,1200,Visa,Hale,Hawera,1104,2/28/09 12:43,-39.5916667,174.2833333,Cinema
+1/4/09 18:57,Product1,1200,Mastercard,KELI,Worongary,1105,2/28/09 14:00,-28.05,153.35,Shopping Mall
+1/12/09 20:31,Product1,1200,Visa,Glen,Atlantida,1106,2/28/09 14:39,14.65,-90.4833333,Restaurant
+1/24/09 12:00,Product1,1200,Visa,T,El Escorial,1107,2/28/09 15:17,40.5833333,-4.1166667,Cinema
+1/28/09 11:19,Product1,1200,Visa,christal,Morrison                    ,1108,2/28/09 17:18,39.65361,-105.19056,Cinema
+1/7/09 17:48,Product1,1200,Mastercard,Alex,Augusta                     ,1109,2/28/09 19:57,33.51722,-82.07583,Shopping Mall
+1/23/09 12:42,Product2,3600,Mastercard,Anke,Avalon,1110,2/28/09 22:26,-33.6333333,151.3333333,Restaurant
+1/7/09 19:48,Product2,3600,Mastercard,TRICIA,Sydney,1111,3/1/09 0:14,-33.8833333,151.2166667,Cinema
+1/26/09 11:19,Product1,1200,Mastercard,smith,Lahti,1112,3/1/09 0:39,60.9666667,25.6666667,Sports
+1/5/09 13:23,Product1,1200,Visa,Macy,Inner City,1113,3/1/09 2:28,48.2166667,16.3666667,car insurace
+1/26/09 13:41,Product1,1200,Mastercard,Lesleigh,Baden,1114,3/1/09 3:11,47.4666667,8.3,home insurance
+1/20/09 10:42,Product2,3600,Diners,esther,Huddersfield,1115,3/1/09 3:29,53.65,-1.7833333,Cinema
+1/22/09 14:25,Product1,1200,Visa,Hans-Joerg,Belfast,1116,3/1/09 3:37,54.5833333,-5.9333333,Shopping Mall
+1/28/09 5:36,Product2,3600,Visa,Christiane,Black River,1117,3/1/09 4:40,-20.3602778,57.3661111,Restaurant
+1/1/09 4:24,Product3,7500,Amex,Pamela,Skaneateles                 ,1118,3/1/09 7:21,42.94694,-76.42944,Cinema
+1/8/09 11:55,Product1,1200,Diners,julie,Haverhill,1119,3/1/09 7:28,52.0833333,0.4333333,Cinema
+1/12/09 21:30,Product1,1200,Visa,Julia ,Madison                     ,1120,3/1/09 10:14,43.07306,-89.40111,Shopping Mall
